@@ -1,0 +1,1 @@
+{"url": "http://m.nydailynews.com/new-york", "steps": ["function (){return location.hostname === 'm.nydailynews.com';}"], "ua": "FirefoxOS", "title": "[B2G][Browser] nydailynews.com serves desktop site to b2g (which can result in tab crashing)"}

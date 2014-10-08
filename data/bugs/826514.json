@@ -1,0 +1,1 @@
+{"url": "http://estadao.com.br", "steps": ["function (){return (location.hostname.indexOf('m.estadao')>-1 || mob.isMobile(navigator.userAgent)) ? true : false;}"], "ua": "FirefoxOS"}

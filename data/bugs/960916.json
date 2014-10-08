@@ -1,0 +1,1 @@
+{"url": "http://www.jalan.net/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "jalan.net sends desktop site to Firefox OS"}

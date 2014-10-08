@@ -1,0 +1,1 @@
+{"url": "http://el-carabobeno.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.el-carabobeno.com\";}"], "title": "el-carabobeno.com doesn't recognize B2G UA as mobile"}

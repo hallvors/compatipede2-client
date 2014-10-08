@@ -1,0 +1,1 @@
+{"url": "http://mt.hupu.com/nba", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"mt.hupu.com\" && mobileLinkOrScriptUrl();}"], "title": "mt.hupu.com/nba redirects to simplified mobile site"}

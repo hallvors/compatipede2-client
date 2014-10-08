@@ -1,0 +1,1 @@
+{"url": "http://www.starwoodhotels.com", "steps": ["function (){ return location.hostname.indexOf('starwoodhotels.com')>-1 }"], "ua": "FirefoxOS"}

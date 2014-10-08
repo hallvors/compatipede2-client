@@ -1,0 +1,1 @@
+{"url": "http://m.zipscene.com/pjs-coffee/albums/album/738550521-simply-the-best", "steps": ["function (){ try{unsafeWindow.$(\".zse-photo-thumbs a\").photoSwipe();return document.getElementsByClassName('ui-icon-loading').length===0;}catch(e){if(e.message == \"e.navigator.userAgent.match(...) is null\")return false;} return 'indeterminate'; }"], "ua": "FirefoxAndroid"}

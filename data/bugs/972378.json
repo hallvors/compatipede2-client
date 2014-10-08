@@ -1,0 +1,1 @@
+{"url": "http://nordea.no", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.nordea.no\";}"], "title": "nordea.no sends desktop site to Firefox OS"}

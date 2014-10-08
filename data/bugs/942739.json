@@ -1,0 +1,1 @@
+{"url": "http://labanquepostale.mobi", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "labanquepostale.mobi sends invalid mobile content to FirefoxOS"}

@@ -1,0 +1,1 @@
+{"url": "http://www.gilt.com", "steps": ["function (){return location.hostname.indexOf(\"m.gilt.com\")>-1 && hasViewportMeta()}"], "ua": "FirefoxOS"}

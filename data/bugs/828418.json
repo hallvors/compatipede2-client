@@ -1,0 +1,1 @@
+{"url": "http://bbva.es", "steps": ["function (){return location.hostname.indexOf('bbva.mobi')>-1;}"], "ua": "FirefoxOS"}

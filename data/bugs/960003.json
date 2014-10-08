@@ -1,0 +1,1 @@
+{"url": "http://property24.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.property24.com\";}"], "title": "property24.com sends desktop site to Firefox OS"}

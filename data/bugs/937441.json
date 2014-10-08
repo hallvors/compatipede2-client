@@ -1,0 +1,1 @@
+{"url": "http://www.submarino.com.br", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.submarino.com.br\" && hasMobileOptimizedMeta() && mobileLinkOrScriptUrl() && hasHandheldFriendlyMeta();}"], "title": "submarino.com.br has UA sniffer that doesn't detect Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://77news.al", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && mobileLinkOrScriptUrl();}"], "title": "77news.al has broken layout in Firefox OS"}

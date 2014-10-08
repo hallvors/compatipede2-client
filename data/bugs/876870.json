@@ -1,0 +1,1 @@
+{"url": "http://m.danner.com/", "steps": ["function (){return mobileLinkOrScriptUrl() /*(regression test, expected to pass)*/ && hasViewportMeta()}"], "ua": "FirefoxOS"}

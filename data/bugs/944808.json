@@ -1,0 +1,1 @@
+{"url": "http://www.bhphotovideo.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && mobileLinkOrScriptUrl();}"], "title": "bhphotovideo.com serves lo-fi mobile site to Firefox for Android and desktop site to Firefox OS"}

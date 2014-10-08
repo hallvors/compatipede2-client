@@ -1,0 +1,1 @@
+{"url": "http://ole.com.ar", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"ios.ole.com.ar\";}"], "title": "ole.com.ar sends desktop site to Firefox OS"}

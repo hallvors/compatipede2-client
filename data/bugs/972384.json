@@ -1,0 +1,1 @@
+{"url": "http://abcnyheter.no", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"abcnyheter.no\" && mobileLinkOrScriptUrl();}"], "title": "abcnyheter.no sends desktop site to Firefox OS"}

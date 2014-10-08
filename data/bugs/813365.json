@@ -1,0 +1,1 @@
+{"url": "http://techcrunch.com", "steps": ["function (){ return document.getElementsByClassName('nav-bar').length != 0; }"], "ua": "FirefoxOS"}

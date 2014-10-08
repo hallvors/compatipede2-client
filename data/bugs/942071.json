@@ -1,0 +1,1 @@
+{"url": "http://view.vzaar.com/1165951/player", "ua": "FirefoxOS", "steps": ["function (){return document.getElementsByTagName('video')[0].className.indexOf('flash_error')==-1}"], "title": "vzaar.com says browser can't play HTML5 (MP4) video"}

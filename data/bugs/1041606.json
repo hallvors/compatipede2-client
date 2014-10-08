@@ -1,0 +1,1 @@
+{"url": "http://abc.es", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.abc.es\" && mobileLinkOrScriptUrl();}"], "title": "abc.es sends desktop site to Firefox OS"}

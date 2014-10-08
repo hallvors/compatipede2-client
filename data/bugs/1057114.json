@@ -1,0 +1,1 @@
+{"url": "http://www.oglobo.globo.com", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"m.oglobo.globo.com\" && hasMobileOptimizedMeta() && hasHandheldFriendlyMeta();}"], "title": "Navigating to oglobo.globo.com does not direct user to m.oglobo.globo.com"}

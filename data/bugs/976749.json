@@ -1,0 +1,1 @@
+{"url": "https://www.google.me/", "steps": ["function (){return document.getElementsByClassName('signin-link').length>0}"], "ua": "FirefoxOS", "title": "Missing connect button in main google page in certain locales"}

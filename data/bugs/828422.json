@@ -1,0 +1,1 @@
+{"url": "http://publico.es/", "steps": ["function (){return location.hostname.indexOf(\"m.publico.es\")>-1 && hasViewportMeta() /*(regression test, expected to pass)*/}"], "ua": "FirefoxOS"}

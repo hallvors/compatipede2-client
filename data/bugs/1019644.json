@@ -1,0 +1,1 @@
+{"url": "http://voegol.com.br", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.voegol.com.br\";}"], "title": "voegol.com.br sends desktop site to Firefox OS"}

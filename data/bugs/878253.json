@@ -1,0 +1,1 @@
+{"url": "http://vatera.hu", "steps": ["function (){return location.hostname.indexOf(\"m.vatera.hu\")>-1 && mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

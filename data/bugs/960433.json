@@ -1,0 +1,1 @@
+{"url": "http://biglobe.ne.jp", "ua": "FirefoxOS", "steps": ["function (){ if(!document.getElementById('devchange'))return 'delay-and-retry'; return ! document.querySelector('a[onclick*=\"B.devChange(\\'sp\\')\"]');}"], "title": "biglobe.ne.jp sends desktop site to Firefox OS"}

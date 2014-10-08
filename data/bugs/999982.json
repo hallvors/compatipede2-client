@@ -1,0 +1,1 @@
+{"url": "http://actualno.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.actualno.com\" && mobileLinkOrScriptUrl();}"], "title": "actualno.com sends desktop site to Firefox OS"}

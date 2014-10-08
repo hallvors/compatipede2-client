@@ -1,0 +1,1 @@
+{"url": "http://my.yahoo.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "my.yahoo doesn't serve tier1 on Firefox OS and Firefox Android"}

@@ -1,0 +1,1 @@
+{"url": "http://askthebuilder.com", "steps": ["function (){return mobileLinkOrScriptUrl() && hasViewportMeta() /*(regression test, expected to pass)*/}"], "ua": "FirefoxOS"}

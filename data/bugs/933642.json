@@ -1,0 +1,1 @@
+{"url": "http://www.mysmartprice.com/", "ua": "FirefoxOS", "steps": ["function (){return mobileLinkOrScriptUrl() && location.pathname.indexOf('m/')>-1;}"], "title": "mysmartprice.com isn't redirecting to mobile site on Firefox OS"}

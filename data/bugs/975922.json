@@ -1,0 +1,1 @@
+{"url": "http://kjendis.no", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.kjendis.no\";}"], "title": "kjendis.no sends desktop site to Firefox OS"}

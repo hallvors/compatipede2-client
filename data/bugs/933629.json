@@ -1,0 +1,1 @@
+{"url": "http://www.carwale.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && mobileLinkOrScriptUrl() && hasHandheldFriendlyMeta();}"], "title": "carwale.com isn't redirecting to mobile site on Firefox OS"}

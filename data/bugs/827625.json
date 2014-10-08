@@ -1,0 +1,1 @@
+{"url": "http://pagseguro.uol.com.br", "steps": ["function (){return location.hostname.indexOf(\"m.pagseguro.uol.com.br\")>-1 && mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

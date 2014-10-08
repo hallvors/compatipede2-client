@@ -1,0 +1,1 @@
+{"url": "http://www.athensvoice.gr", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.athensvoice.gr\";}"], "title": "athensvoice.gr doesn't redirect to mobile site on Firefox OS"}

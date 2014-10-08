@@ -1,0 +1,1 @@
+{"url": "http://forobeta.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "forobeta.com sends desktop site to Firefox OS"}

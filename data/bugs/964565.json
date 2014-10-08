@@ -1,0 +1,1 @@
+{"url": "http://www.leparisien.fr/", "ua": "FirefoxOS", "steps": ["function (){if('mobile_url' in window) return 'delay-and-retry' /*pre-js-redirect, let's wait..*/; return hasViewportMeta() && location.hostname === \"m.leparisien.fr\" && hasMobileOptimizedMeta() && hasHandheldFriendlyMeta();}"], "title": "www.leparisien.fr sends desktop site to Firefox OS"}

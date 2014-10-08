@@ -1,0 +1,1 @@
+{"url": "http://www.linkedin.com", "steps": ["function (){return location.hostname.indexOf(\"touch.www.linkedin.com\")>-1 && hasViewportMeta()}"], "ua": "FirefoxOS"}

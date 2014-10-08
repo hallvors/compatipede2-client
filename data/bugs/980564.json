@@ -1,0 +1,1 @@
+{"url": "http://www.newegg.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.newegg.com\" && mobileLinkOrScriptUrl();}"], "title": "newegg.com returns desktop not mobile site to Firefox Android and Firefox OS"}

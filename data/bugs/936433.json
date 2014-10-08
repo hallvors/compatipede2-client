@@ -1,0 +1,1 @@
+{"url": "http://www.readingrockets.org/shows/", "steps": ["function (){return hasHandheldFriendlyMeta() && hasMobileOptimizedMeta() && hasViewportMeta()}"], "ua": "FirefoxOS"}

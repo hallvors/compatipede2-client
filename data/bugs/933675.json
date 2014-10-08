@@ -1,0 +1,1 @@
+{"url": "http://www.indeed.co.in/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && mobileLinkOrScriptUrl();}"], "title": "indeed.co.in isn't redirecting to mobile site on Firefox OS"}

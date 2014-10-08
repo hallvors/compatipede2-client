@@ -1,0 +1,1 @@
+{"url": "http://cinemark.com.br", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "cinemark.com.br sends desktop site to Firefox OS"}

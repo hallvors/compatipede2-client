@@ -1,0 +1,1 @@
+{"url": "http://grooveshark.com/", "ua": "FirefoxOS", "steps": ["function (){return location.hostname.indexOf('mobile')>-1 || location.hostname.indexOf('html5')>-1;}"], "title": "grooveshark.com doesn't recognize B2G as mobile"}

@@ -1,0 +1,1 @@
+{"url": "http://globo.com", "steps": ["function (){if(location.hostname.indexOf('m.globo.com')>-1)return true; try{ return unsafeWindow.glb.behavior.redirectToMobile.isMobile(navigator.userAgent);}catch(e){return 'test 826335 needs update, throws';}}"], "ua": "FirefoxOS"}

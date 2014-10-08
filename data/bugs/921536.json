@@ -1,0 +1,1 @@
+{"url": "http://www.google.com/", "steps": ["function (){return ! (document.getElementById('gbg').pathname == '/mobile/')}"], "ua": "FirefoxOS", "title": "Google menu icon in the top-left corner in Firefox doesn't open a menu"}

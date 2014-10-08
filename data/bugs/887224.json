@@ -1,0 +1,1 @@
+{"url": "http://elmundo.es/movil2", "steps": ["function (){return (mobileLinkOrScriptUrl() /*(regression test, expected to pass)*/ && hasViewportMeta() /*(regression test, expected to pass)*/) || document.getElementById('popup-cambio-version') != null }"], "ua": "FirefoxOS"}

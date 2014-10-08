@@ -1,0 +1,1 @@
+{"url": "http://icicibank.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.icicibank.com\";}"], "title": "icicibank.com isn't redirecting to mobile site on Firefox OS"}

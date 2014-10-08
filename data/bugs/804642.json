@@ -1,0 +1,1 @@
+{"url": "http://www.baidu.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "baidu.com UA sniffing serves non optimized content"}

@@ -1,0 +1,1 @@
+{"url": "http://cdm.me", "steps": ["function (){return location.hostname.indexOf(\"m.cdm.me\")>-1 && hasViewportMeta()}"], "ua": "FirefoxOS"}

@@ -1,0 +1,1 @@
+{"url": "http://kalahari.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.kalahari.com\" && mobileLinkOrScriptUrl();}"], "title": "kalahari.com sends desktop site to Firefox OS"}

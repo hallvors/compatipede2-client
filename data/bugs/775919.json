@@ -1,0 +1,1 @@
+{"url": "http://www.bbc.co.uk/iplayer", "steps": ["function (){return !/Not Supported/i.test(document.title)}"], "ua": "FirefoxOS", "title": "BBC iPlayer does not detect the Firefox UA"}

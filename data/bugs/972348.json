@@ -1,0 +1,1 @@
+{"url": "http://dinside.no", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.dinside.no\" && hasMobileOptimizedMeta() && mobileLinkOrScriptUrl() && hasHandheldFriendlyMeta();}"], "title": "dinside.no sends desktop site to Firefox OS"}

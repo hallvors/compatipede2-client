@@ -1,0 +1,1 @@
+{"url": "http://zbozi.cz", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "zbozi.cz sends simplified site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://espn.go.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && mobileLinkOrScriptUrl() && hasHandheldFriendlyMeta();}"], "title": "ESPN sends Firefox OS a very simple mobile site, lacks video content among other features"}

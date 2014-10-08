@@ -1,0 +1,1 @@
+{"url": "http://www.wsj.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname.indexOf('m.')>-1 && mobileLinkOrScriptUrl();}"], "title": "wsj.com returns desktop not mobile site to Firefox Android and Firefox OS"}

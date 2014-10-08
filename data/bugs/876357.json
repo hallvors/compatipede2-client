@@ -1,0 +1,1 @@
+{"url": "http://www.economist.com", "steps": ["function (){return hasHandheldFriendlyMeta() && mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxAndroid", "title": "Economist not serving mobile optimized site to Firefox for Android"}

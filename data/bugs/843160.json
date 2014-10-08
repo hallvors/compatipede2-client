@@ -1,0 +1,1 @@
+{"url": "http://ehow.com", "steps": ["function (){return document.getElementsByClassName('PageSlider').length>0;}"], "ua": "FirefoxOS"}

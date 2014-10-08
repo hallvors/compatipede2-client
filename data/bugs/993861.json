@@ -1,0 +1,1 @@
+{"url": "http://money.rediff.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.money.rediff.com\";}"], "title": "money.rediff.com sends desktop site to Firefox OS"}

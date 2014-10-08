@@ -1,0 +1,1 @@
+{"url": "http://mercadolibre.com.mx", "steps": ["function (){return mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

@@ -1,0 +1,1 @@
+{"url": "http://www.musicradar.com", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"m.musicradar.com\" && mobileLinkOrScriptUrl() && hasHandheldFriendlyMeta();}"], "title": "Musicradar.com sends desktop site to Firefox OS"}

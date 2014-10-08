@@ -1,0 +1,1 @@
+{"url": "http://www.credit-agricole.fr/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && document.getElementById('cssmobile') != null;}"], "title": "www.credit-agricole.fr sends desktop site to Firefox OS"}

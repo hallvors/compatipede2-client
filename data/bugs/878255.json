@@ -1,0 +1,1 @@
+{"url": "http://24sata.hr", "steps": ["function (){}", "function (){return location.hostname.indexOf(\"m.24sata.hr\")>-1 && hasViewportMeta()}"], "ua": "FirefoxOS"}

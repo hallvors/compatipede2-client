@@ -1,0 +1,1 @@
+{"url": "http://www.jw.org/en/video-why-study-the-bible/", "ua": "FirefoxOS", "steps": ["function (){return hasVideoTags();}"], "title": "JWPlayer fails to either feature detect properly or properly load video in mobile UAs on jw.org"}

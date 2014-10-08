@@ -1,0 +1,1 @@
+{"url": "http://arstechnica.com", "steps": ["function (){return hasViewportMeta() /*(regression test, expected to pass)*/}"], "ua": "FirefoxOS"}

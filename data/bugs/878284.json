@@ -1,0 +1,1 @@
+{"url": "http://softonic.com", "steps": ["function (){return location.hostname.indexOf(\"m.softonic.com\")>-1 && mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

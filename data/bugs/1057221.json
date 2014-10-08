@@ -1,0 +1,1 @@
+{"url": "http://mixi.jp/", "ua": "iPhone", "steps": ["function (){\n                if(!document.querySelector('.listStyle01 div.img'))return 'N/A';\n                return getComputedStyle(document.querySelector('.listStyle01 div.img')).display!='block';}"], "title": "mixi.jp Mobile version is using the old-old CSS webkit flexbox syntax"}

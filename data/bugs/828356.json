@@ -1,0 +1,1 @@
+{"url": "http://o2.pl", "steps": ["function (){return mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

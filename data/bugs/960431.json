@@ -1,0 +1,1 @@
+{"url": "http://tabelog.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"s.tabelog.com\";}"], "title": "tabelog.com sends desktop site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://www.bhaskar.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.bhaskar.com\" && mobileLinkOrScriptUrl();}"], "title": "bhaskar.com isn't redirecting to mobile site on Firefox OS"}

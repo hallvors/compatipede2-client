@@ -1,0 +1,1 @@
+{"url": "http://way2sms.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m1.way2sms.com\";}"], "title": "way2sms.com sends desktop site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://technabob.com", "steps": ["function (){return mobileLinkOrScriptUrl('wptouch.js')&& hasViewportMeta()}"], "ua": "FirefoxOS"}

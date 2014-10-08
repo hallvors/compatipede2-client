@@ -1,0 +1,1 @@
+{"url": "http://btvnews.bg", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.btvnews.bg\" && mobileLinkOrScriptUrl();}"], "title": "btvnews.bg sends desktop site to Firefox OS"}

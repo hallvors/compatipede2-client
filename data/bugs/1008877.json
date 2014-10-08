@@ -1,0 +1,1 @@
+{"url": "http://miclaro.com.pe", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "miclaro.com.pe sends simplified site to Firefox OS"}

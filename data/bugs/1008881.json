@@ -1,0 +1,1 @@
+{"url": "http://investing.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"touch.investing.com\" && hasHandheldFriendlyMeta();}"], "title": "investing.com sends desktop site to Firefox OS"}

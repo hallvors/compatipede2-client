@@ -1,0 +1,1 @@
+{"url": "http://ba.no", "ua": "FirefoxOS", "steps": ["function (){return location.hostname == 'mobil.ba.no'}"], "title": "ba.no sends desktop site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://www.moleskine.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && mobileLinkOrScriptUrl();}"], "title": "moleskine.com sends desktop content to Firefox OS"}

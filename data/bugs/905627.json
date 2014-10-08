@@ -1,0 +1,1 @@
+{"url": "http://www.nhk.or.jp", "steps": ["function (){ return location.pathname.indexOf('/sp/')>-1 && window.g_ua && window.g_ua.SmartPhone; }"], "ua": "FirefoxOS"}

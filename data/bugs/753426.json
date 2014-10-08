@@ -1,0 +1,1 @@
+{"url": "http://m.zappos.com", "steps": ["function (){return getComputedStyle(document.getElementsByName('c1')[0]).backgroundPosition != '0% 0%'}"], "ua": "FirefoxOS", "title": "Layout issues on m.zappos.com"}

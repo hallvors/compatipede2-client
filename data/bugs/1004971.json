@@ -1,0 +1,1 @@
+{"url": "http://scoop.it", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "scoop.it sends desktop site to Firefox OS"}

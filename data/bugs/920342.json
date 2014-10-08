@@ -1,0 +1,1 @@
+{"url": "http://newyork.schmap.com/", "ua": "FirefoxAndroid", "steps": ["function (){\n                if(document.readyState != 'complete') return 'delay-and-retry';\n                return document.getElementById('rotationalert').style.display === 'none';\n            }"], "title": "Schmap blocks Firefox for Android users from using site"}

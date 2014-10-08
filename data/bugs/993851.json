@@ -1,0 +1,1 @@
+{"url": "http://commonfloor.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "commonfloor.com sends desktop site to Firefox OS"}

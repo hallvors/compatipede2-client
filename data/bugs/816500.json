@@ -1,0 +1,1 @@
+{"url": "http://m.assuta.co.il", "steps": ["function (){return hasViewportMeta() /*(regression test, expected to pass)*/}"], "ua": "FirefoxOS"}

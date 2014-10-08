@@ -1,0 +1,1 @@
+{"url": "http://www.discovery.com", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"m.discovery.com\";}"], "title": "discovery.com sends desktop site to Firefox OS, vides do not play"}

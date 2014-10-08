@@ -1,0 +1,1 @@
+{"url": "http://soychile.cl", "ua": "FirefoxOS", "steps": ["function (){return mobileLinkOrScriptUrl();}"], "title": "soychile.cl sends desktop site to Firefox OS"}

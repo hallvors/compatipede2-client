@@ -1,0 +1,1 @@
+{"url": "http://www.slate.fr/", "ua": "FirefoxOS", "steps": ["function (){return location.hostname =='m.slate.fr'}"], "title": "www.slate.fr has broken layout in Firefox OS"}

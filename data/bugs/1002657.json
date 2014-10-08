@@ -1,0 +1,1 @@
+{"url": "http://www.cyclingnews.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.cyclingnews.com\" && hasHandheldFriendlyMeta();}"], "title": "Cyclingnews.com sends desktop site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://expedia.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && hasMobileOptimizedMeta() && mobileLinkOrScriptUrl() && hasHandheldFriendlyMeta();}"], "title": "expedia.com sends desktop site to Firefox OS"}

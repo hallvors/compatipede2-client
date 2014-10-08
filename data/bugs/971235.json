@@ -1,0 +1,1 @@
+{"url": "http://www.pcmag.com", "ua": "FirefoxOS", "steps": ["function (){return location.hostname == 'mobile.pcmag.com'}"], "title": "Pcmag.com serves mobile site to iPhone, Chrome, Opera. Desktop site to Firefox mobile,"}

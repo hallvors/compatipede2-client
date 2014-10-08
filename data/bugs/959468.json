@@ -1,0 +1,1 @@
+{"url": "http://m.self.com.cn", "steps": ["function (){if(document.querySelector('.nav-panel section p'))return getComputedStyle(document.querySelector('.nav-panel section p'),'').display === 'flex'; }"], "ua": "FirefoxOS", "title": "m.self.com.cn has layout issues in Firefox OS"}

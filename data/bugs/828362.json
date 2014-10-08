@@ -1,0 +1,1 @@
+{"url": "http://tvn24.pl", "steps": ["function (){return mobileLinkOrScriptUrl() && hasViewportMeta() /*(regression test, expected to pass)*/}"], "ua": "FirefoxOS"}

@@ -1,0 +1,1 @@
+{"url": "http://dagbladet.no", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.db.no\";}"], "title": "dagbladet.no sends desktop site to Firefox OS"}

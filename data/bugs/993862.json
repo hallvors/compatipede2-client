@@ -1,0 +1,1 @@
+{"url": "http://paytm.in", "ua": "FirefoxOS", "steps": ["function (){return mobileLinkOrScriptUrl();}"], "title": "paytm.in sends simplified site to Firefox OS"}

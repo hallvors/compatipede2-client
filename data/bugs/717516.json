@@ -1,0 +1,1 @@
+{"url": "http://m.porsche.com/usa/models/cayenne/cayenne-s/", "steps": ["function (){return hasHandheldFriendlyMeta() /*(regression test, expected to pass)*/ && hasViewportMeta()}"], "ua": "FirefoxOS"}

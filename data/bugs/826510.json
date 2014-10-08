@@ -1,0 +1,1 @@
+{"url": "http://r7.com", "steps": ["function (){return location.hostname.indexOf(\"m.r7.com\")>-1 && hasViewportMeta()}"], "ua": "FirefoxOS"}

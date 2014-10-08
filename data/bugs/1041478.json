@@ -1,0 +1,1 @@
+{"url": "http://clubic.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"mobile.clubic.com\";}"], "title": "clubic.com is sending desktop content to Firefox OS"}

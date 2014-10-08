@@ -1,0 +1,1 @@
+{"url": "http://www.westjet.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.pathname.indexOf('mobile/')>-1;}"], "title": "westjet.com - Site Sniffs for Firefox, Fails in Varying Degrees in Other Gecko Browsers"}

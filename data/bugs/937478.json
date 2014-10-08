@@ -1,0 +1,1 @@
+{"url": "http://www.band.uol.com.br/", "ua": "FirefoxOS", "steps": ["function (){return mobileLinkOrScriptUrl();}"], "title": "band.uol.com.br recognizes B2G UA as an iPhone"}

@@ -1,0 +1,1 @@
+{"url": "http://lancenet.com.br", "steps": ["function (){return location.hostname.indexOf(\"m.lancenet.com.br\")>-1 && mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

@@ -1,0 +1,1 @@
+{"url": "http://www.setbeat.com/", "steps": ["function (){return location.hostname.indexOf(\"m.setbeat.com\")>-1 && mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

@@ -1,0 +1,1 @@
+{"url": "http://yoyopress.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "yoyopress.com sends desktop site to Firefox OS"}

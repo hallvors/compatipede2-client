@@ -1,0 +1,1 @@
+{"url": "http://alamaula.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.alamaula.com\";}"], "title": "alamaula.com sends desktop site to Firefox OS"}

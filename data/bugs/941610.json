@@ -1,0 +1,1 @@
+{"url": "http://www.cinemax.com/video/", "steps": ["function (){if(!document.getElementById('_containerplayer1'))return 'delay-and-retry'; return document.querySelector('img[src*=\"admin.brightcove.com/viewer/upgrade_flash_player\"]') == null}"], "ua": "FirefoxOS", "title": "cinemax.com doesn't play video (uses Brightcove, shows flash error)"}

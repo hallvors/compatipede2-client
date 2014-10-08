@@ -1,0 +1,1 @@
+{"url": "http://afii.fr/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.invest-in-france.org\";}"], "title": "afii.fr sends desktop site to Firefox OS"}

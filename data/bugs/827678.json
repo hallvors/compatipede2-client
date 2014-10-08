@@ -1,0 +1,1 @@
+{"url": "http://marca.com", "steps": ["function (){return hasHandheldFriendlyMeta() && mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

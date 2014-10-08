@@ -1,0 +1,1 @@
+{"url": "http://www.aa.com/", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"mobile.aa.com\" && mobileLinkOrScriptUrl();}"], "title": "aa.com serves desktop content to Firefox OS"}

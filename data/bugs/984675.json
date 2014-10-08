@@ -1,0 +1,1 @@
+{"url": "http://primarycolors.net/", "ua": "FirefoxDesktop", "steps": ["function (){return document.getElementById('alert')==null;}"], "title": "http://primarycolors.net/ claims SVG not supported, recommends Safari/Chrome"}

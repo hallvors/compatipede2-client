@@ -1,0 +1,1 @@
+{"url": "http://grabo.bg", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.grabo.bg\" && hasHandheldFriendlyMeta();}"], "title": "grabo.bg sends desktop site to Firefox OS"}

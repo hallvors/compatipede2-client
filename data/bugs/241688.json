@@ -1,0 +1,1 @@
+{"url": "http://online.sainsburysbank.co.uk/", "steps": ["function (){ return location.protocol === 'https:'  && location.hostname === 'online.sainsburysbank.co.uk' }"], "ua": "default"}

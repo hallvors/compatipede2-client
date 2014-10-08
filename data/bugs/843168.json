@@ -1,0 +1,1 @@
+{"url": "http://cheaptickets.com", "steps": ["function (){\n            if(document.readyState != 'complete') return 'delay-and-retry';\n            return document.getElementsByClassName('siteMenuButton').length != 0;\n        }"], "ua": "FirefoxOS"}

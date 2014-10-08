@@ -1,0 +1,1 @@
+{"url": "http://m.cinecolombia.com/movil/cartelera/armenia?pelicula=1", "steps": ["function (){return document.getElementById('page').className === 'DIV'}"], "ua": "FirefoxOS"}

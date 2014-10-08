@@ -1,0 +1,1 @@
+{"url": "http://vagalume.com.br", "steps": ["function (){}", "function (){return location.hostname.indexOf(\"m.vagalume.com.br\")>-1 && mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

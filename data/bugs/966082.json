@@ -1,0 +1,1 @@
+{"url": "http://www.nasdaq.com/", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"m.nasdaq.com\";}"], "title": "www.nasdaq.com sends desktop site to Firefox OS"}

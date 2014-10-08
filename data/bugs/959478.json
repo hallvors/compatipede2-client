@@ -1,0 +1,1 @@
+{"url": "http://wap.yuanlai.com/index.do;s=mpc8pilwzfnzhz1wocjj?uid=null&channelid=144&subchannelid=", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"wap.yuanlai.com\";}"], "title": "wap.yuanlai.com sends desktop site to Firefox OS"}

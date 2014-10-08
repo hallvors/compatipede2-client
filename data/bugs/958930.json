@@ -1,0 +1,1 @@
+{"url": "http://u.web2go.com/upsell/getpasses.do?pcat=ILT&rorigin=100INTLPassr", "steps": ["function (){return document.title.indexOf('Error 400')==-1}"], "ua": "FirefoxAndroid", "title": "T-Mobile international data-upgrade site serves 400 to any UA with \"Firefox\" token"}

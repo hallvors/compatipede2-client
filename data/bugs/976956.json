@@ -1,0 +1,1 @@
+{"url": "http://m.juegos.com", "steps": ["function (){return document.images.length > 1}"], "ua": "FirefoxOS", "title": "m.juegos.com fails to load in Firefox on Android because JavaScript assumes Android version number is in UA string"}

@@ -1,0 +1,1 @@
+{"url": "http://www.clarin.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "clarin.com serves desktop content to Firefox OS smartphones"}

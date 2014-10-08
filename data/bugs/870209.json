@@ -1,0 +1,1 @@
+{"url": "http://polygamia.pl/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.polygamia.pl\";}"], "title": "polygamia.pl doesn't send mobile content to Firefox OS"}

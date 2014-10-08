@@ -1,0 +1,1 @@
+{"url": "http://cinepolis.com.mx", "ua": "FirefoxOS", "steps": ["function (){return hasVideoTags() && location.hostname === \"www.cinepolis.com.mx\";}"], "title": "cinepolis.com.mx sends desktop site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://plugins.svn.wordpress.org/wptouch/trunk/core/mobile-user-agents.php", "steps": ["function (){ return unsafeWindow.document.body.textContent.indexOf('Firefox\\', \\'Mobile')>-1 }"], "ua": "FirefoxOS"}

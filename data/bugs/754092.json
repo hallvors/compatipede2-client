@@ -1,0 +1,1 @@
+{"url": "http://icloud.com", "steps": ["function (){return hasViewportMeta() && location.pathname.indexOf('unsupported_')===-1}"], "ua": "FirefoxOS"}

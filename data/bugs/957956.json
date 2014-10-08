@@ -1,0 +1,1 @@
+{"url": "http://book.easou.com", "steps": ["function (){return document.scripts.length>1}"], "ua": "FirefoxOS", "title": "book.easou.com sends simplified mobile page to Firefox OS and Firefox on Android"}

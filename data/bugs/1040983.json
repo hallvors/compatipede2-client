@@ -1,0 +1,1 @@
+{"url": "https://touch.www.linkedin.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"touch.www.linkedin.com\" && hasMobileOptimizedMeta() && hasHandheldFriendlyMeta();}"], "title": "[B2G][Browser] When linking Google mail to LinkedIn, the browser does not transition to the Google sign in page"}

@@ -1,0 +1,1 @@
+{"url": "http://ajw.asahi.com/", "steps": ["function (){return mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

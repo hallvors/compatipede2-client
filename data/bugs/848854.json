@@ -1,0 +1,1 @@
+{"url": "http://www.deadline.com/", "steps": ["function (){}", "function (){return document.body.classList.contains('pmc-mobile');}"], "ua": "FirefoxOS"}

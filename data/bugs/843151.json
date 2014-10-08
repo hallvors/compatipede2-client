@@ -1,0 +1,1 @@
+{"url": "http://citibank.com", "steps": ["function (){return mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

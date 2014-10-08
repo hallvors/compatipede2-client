@@ -1,0 +1,1 @@
+{"url": "http://m.europapress.es", "steps": ["function (){return location.hostname.indexOf(\"m.europapress.es\")>-1 && mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

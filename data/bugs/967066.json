@@ -1,0 +1,1 @@
+{"url": "http://www.ndtv.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.ndtv.com\" && mobileLinkOrScriptUrl();}"], "title": "ndtv.com sends desktop version to Firefox OS"}

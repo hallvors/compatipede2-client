@@ -1,0 +1,1 @@
+{"url": "http://bol.uol.com.br", "steps": ["function (){return location.hostname.indexOf(\"m.bol.uol.com.br\")>-1 && hasViewportMeta()}"], "ua": "FirefoxOS"}

@@ -1,0 +1,1 @@
+{"url": "http://www.uol.com.br/", "steps": ["function (){return location.hostname.indexOf('m.uol.')>-1}"], "ua": "FirefoxOS"}

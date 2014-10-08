@@ -1,0 +1,1 @@
+{"url": "http://www.sport24.gr", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.sport24.gr\" && hasMobileOptimizedMeta() && mobileLinkOrScriptUrl() && hasHandheldFriendlyMeta();}"], "title": "sport24.gr doesn't redirect to mobile site on Firefox OS"}

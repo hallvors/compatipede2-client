@@ -1,0 +1,1 @@
+{"url": "http://webtv.un.org", "steps": ["function (){if(document.getElementsByClassName('BrightcoveExperience')[0])return 'delay-and-retry';}", "function () { for (var i = document.links.length - 1; i >= 0; i--) {\n            if(document.links[i].href.indexOf('adobe.com/go/getflash/')>-1)return false;\n        }; return true;}"], "ua": "FirefoxOS"}

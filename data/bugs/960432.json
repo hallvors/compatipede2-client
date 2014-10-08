@@ -1,0 +1,1 @@
+{"url": "http://nifty.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "nifty.com / cocolog-nifty.com sends desktop site to Firefox OS and Firefox on Android"}

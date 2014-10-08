@@ -1,0 +1,1 @@
+{"url": "http://www.cardekho.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.cardekho.com\" && mobileLinkOrScriptUrl() && hasHandheldFriendlyMeta();}"], "title": "cardekho.com isn't redirecting to mobile site on Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://www.roomie.jp/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "www.roomie.jp sends the desktop version to Firefox OS"}

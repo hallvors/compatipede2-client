@@ -1,0 +1,1 @@
+{"url": "http://www.autoscout24.de/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.autoscout24.de\";}"], "title": "autoscout24.de sends desktop site to Firefox OS"}

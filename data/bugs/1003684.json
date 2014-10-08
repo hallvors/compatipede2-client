@@ -1,0 +1,1 @@
+{"url": "http://www.jp-bank.japanpost.jp/", "steps": ["function (){return document.querySelector('a[href*=\"/sp/sp_index\"]') ? true : false;}"], "ua": "FirefoxOS", "title": "jp-bank.japanpost.jp triggers a banner for certain mobile devices only"}

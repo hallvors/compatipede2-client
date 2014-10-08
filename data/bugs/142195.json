@@ -1,0 +1,1 @@
+{"url": "http://www.rehobothaquatics.com/", "steps": ["function (){\n                var fixed = true;\n                try{dynAnimation();}catch(e){fixed = false;}\n                return fixed;\n            }"], "ua": "FirefoxDesktop", "title": "rehobothaquatics.com - Pages display full black"}

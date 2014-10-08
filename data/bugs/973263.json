@@ -1,0 +1,1 @@
+{"url": "http://www.swisschalet.com", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.swisschalet.com\";}"], "ua": "FirefoxOS", "title": "Swisschalet.com serves desktop site to Firefox OS"}

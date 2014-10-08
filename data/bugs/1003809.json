@@ -1,0 +1,1 @@
+{"url": "http://falabella.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.falabella.com\";}"], "title": "falabella.com zoom or text size is different on Firefox OS"}

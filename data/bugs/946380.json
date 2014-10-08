@@ -1,0 +1,1 @@
+{"url": "http://www.orange.fr/", "ua": "FirefoxOS", "steps": ["function (){return location.hostname.indexOf('mobile')>-1;}"], "title": "orange.fr serves desktop content to Firefox for Android and Firefox OS"}

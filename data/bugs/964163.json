@@ -1,0 +1,1 @@
+{"url": "http://pagesjaunes.fr/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"mobile.pagesjaunes.fr\" && mobileLinkOrScriptUrl();}"], "title": "pagesjaunes.fr is sending desktop content to Firefox OS"}

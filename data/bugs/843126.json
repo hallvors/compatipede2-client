@@ -1,0 +1,1 @@
+{"url": "http://es.playstation.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "es.playstation.com doesn't recognize B2G or Fennec UAs as mobile"}

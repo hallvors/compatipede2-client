@@ -1,0 +1,1 @@
+{"url": "http://www.tuteve.tv", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.tuteve.tv\" && mobileLinkOrScriptUrl();}"], "title": "tuteve.tv sends desktop site to Firefox OS"}

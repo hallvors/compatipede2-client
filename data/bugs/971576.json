@@ -1,0 +1,1 @@
+{"url": "http://montevideo.com.uy", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && hasVideoTags();}"], "title": "montevideo.com.uy sends desktop site to Firefox OS"}

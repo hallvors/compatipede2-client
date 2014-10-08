@@ -1,0 +1,1 @@
+{"url": "http://tmall.com", "steps": ["function (){return location.hostname.indexOf(\"m.tmall.com\")>-1 && hasViewportMeta()}"], "ua": "FirefoxOS"}

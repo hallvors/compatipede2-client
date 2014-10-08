@@ -1,0 +1,1 @@
+{"url": "http://www.yebhi.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.yebhi.com\";}"], "title": "yebhi.com isn't redirecting to mobile site on Firefox OS"}

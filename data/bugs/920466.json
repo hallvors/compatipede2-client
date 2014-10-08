@@ -1,0 +1,1 @@
+{"url": "http://news.google.com/", "ua": "FirefoxOS", "steps": ["function (){return mobileLinkOrScriptUrl();}"], "title": "Google news top menu hidden, due to display:-webkit-box style"}

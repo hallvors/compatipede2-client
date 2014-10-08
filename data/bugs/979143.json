@@ -1,0 +1,1 @@
+{"url": "http://laverdad.com", "ua": "FirefoxOS1.4", "steps": ["function (){return hasViewportMeta();}"], "title": "laverdad.com sends desktop site to Firefox OS"}

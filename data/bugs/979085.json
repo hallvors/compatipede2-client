@@ -1,0 +1,1 @@
+{"url": "http://www.sii.cl", "steps": ["function (){return location.hostname === 'm.sii.cl'}"], "ua": "FirefoxOS"}

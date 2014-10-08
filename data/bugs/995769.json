@@ -1,0 +1,1 @@
+{"url": "http://metlife.com.mx", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.metlife.com.mx\" && mobileLinkOrScriptUrl();}"], "title": "metlife.com.mx sends desktop site to Firefox OS"}

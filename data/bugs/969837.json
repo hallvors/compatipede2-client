@@ -1,0 +1,1 @@
+{"url": "http://chip.de", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.chip.de\";}"], "title": "chip.de sends desktop site to Firefox OS"}

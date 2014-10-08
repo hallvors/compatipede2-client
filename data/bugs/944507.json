@@ -1,0 +1,1 @@
+{"url": "https://mail.yahoo.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && mobileLinkOrScriptUrl();}"], "title": "mail.yahoo.com is sending desktop content to Firefox OS"}

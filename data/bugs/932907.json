@@ -1,0 +1,1 @@
+{"url": "http://www.makemytrip.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.makemytrip.com\";}"], "title": "makemytrip.com isn't redirecting to mobile site on Firefox OS"}

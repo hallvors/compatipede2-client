@@ -1,0 +1,1 @@
+{"url": "http://www.ocn.ne.jp", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "www.ocn.ne.jp sends desktop site to Firefox OS"}

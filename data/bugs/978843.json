@@ -1,0 +1,1 @@
+{"url": "http://telam.com.ar", "steps": ["function (){return location.pathname.indexOf('/movil/') === 0 }"], "ua": "FirefoxOS", "title": "telam.com.ar sends desktop site to Firefox OS"}

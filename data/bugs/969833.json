@@ -1,0 +1,1 @@
+{"url": "http://t-online.de", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.t-online.de\" && mobileLinkOrScriptUrl();}"], "title": "t-online.de sends desktop site to Firefox OS"}

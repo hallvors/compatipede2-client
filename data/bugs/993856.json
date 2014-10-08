@@ -1,0 +1,1 @@
+{"url": "http://grotal.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && mobileLinkOrScriptUrl();}"], "title": "grotal.com sends simplified site to Firefox OS"}

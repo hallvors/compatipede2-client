@@ -1,0 +1,1 @@
+{"url": "http://nike.com/", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"m.nike.com\" && mobileLinkOrScriptUrl();}"], "title": "nike.com doesn't serve the mobile content to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://www.dafiti.com.br", "steps": ["function (){}", "function (){\n                return location.hostname == 'm.dafiti.com.br'\n            }"], "ua": "FirefoxOS", "title": "dafiti.com.br doesn't recognize B2G UA as mobile"}

@@ -1,0 +1,1 @@
+{"url": "http://www.ztedevices.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.ztedevice.com\";}"], "title": "Ztedevices.com sends FFOS to desktop site instead of mobile"}

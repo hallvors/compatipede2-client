@@ -1,0 +1,1 @@
+{"url": "http://m.qunar.com", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"touch.qunar.com\" && hasMobileOptimizedMeta() && mobileLinkOrScriptUrl();}"], "title": "m.qunar.com does not automatically redirect to touch.qunar.com"}

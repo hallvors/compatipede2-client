@@ -1,0 +1,1 @@
+{"url": "http://santander.cl", "steps": ["function (){}", "function (){return location.pathname.indexOf('/movil')>-1}"], "ua": "FirefoxOS"}

@@ -1,0 +1,1 @@
+{"url": "http://despegar.cl", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"m.despegar.cl\" && mobileLinkOrScriptUrl();}"], "title": "despegar.cl sends desktop site to Firefox OS"}

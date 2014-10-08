@@ -1,0 +1,1 @@
+{"url": "http://edition.cnn.com/video/", "ua": "FirefoxOS", "steps": ["function (){return mobileLinkOrScriptUrl();}"], "title": "cnn.com video doesn't play in Firefox OS"}

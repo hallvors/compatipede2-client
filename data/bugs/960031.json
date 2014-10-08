@@ -1,0 +1,1 @@
+{"url": "http://pnet.co.za", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"m.pnet.co.za\";}"], "title": "pnet.co.za does not offer mobile site to Firefox OS"}

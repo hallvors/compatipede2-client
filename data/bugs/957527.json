@@ -1,0 +1,1 @@
+{"url": "http://m.qzone.com", "steps": ["function (){}", "function (){return getComputedStyle(document.querySelector('.dl-guide header'), '').backgroundSize != 'auto auto'}"], "ua": "FirefoxOS", "title": "m.qzone.com login page - background to large, makes header messy"}

@@ -1,0 +1,1 @@
+{"url": "http://m.yahoo.co.jp", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.yahoo.co.jp\" && getComputedStyle(document.querySelector('.header__items')).flex != '';}"], "title": "Messy rendering on Yahoo Japan mobile site"}

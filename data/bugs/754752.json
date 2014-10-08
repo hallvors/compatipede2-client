@@ -1,0 +1,1 @@
+{"url": "http://books.google.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && mobileLinkOrScriptUrl();}"], "title": "Google Books - Desktop site renders on fennec native, not mobile site"}

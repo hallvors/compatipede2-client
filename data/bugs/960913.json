@@ -1,0 +1,1 @@
+{"url": "http://say-move.org", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "say-move.org sends desktop site to Firefox OS"}

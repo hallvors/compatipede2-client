@@ -1,0 +1,1 @@
+{"url": "http://wap.2kk.mobi", "steps": ["function (){return document.getElementsByClassName('header').length>0;}"], "ua": "FirefoxOS", "title": "wap.2kk.mobi sends desktop site to Firefox OS"}

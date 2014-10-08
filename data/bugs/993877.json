@@ -1,0 +1,1 @@
+{"url": "http://ebay.in", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"m.ebay.in\";}"], "title": "ebay.in sends desktop site to Firefox OS"}

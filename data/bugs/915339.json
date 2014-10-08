@@ -1,0 +1,1 @@
+{"url": "http://abcnews.go.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && mobileLinkOrScriptUrl();}"], "title": "ABCnews.go.com doesn't send the mobile version to Firefox on Mobile"}

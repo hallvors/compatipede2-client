@@ -1,0 +1,1 @@
+{"url": "http://state.gov", "ua": "FirefoxOS", "steps": ["function (){}", "function (){return hasViewportMeta() && location.hostname === \"m.state.gov\";}"], "title": "state.gov sends desktop site to Firefox OS and Firefox on Android"}

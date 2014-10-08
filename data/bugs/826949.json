@@ -1,0 +1,1 @@
+{"url": "http://clickjogos.uol.com.br", "steps": ["function (){return hasViewportMeta() /*(regression test, expected to pass)*/}"], "ua": "FirefoxOS"}

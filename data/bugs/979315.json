@@ -1,0 +1,1 @@
+{"url": "http://www.rpp.com.pe", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.rpp.com.pe\";}"], "title": "rpp.com.pe sends desktop site"}

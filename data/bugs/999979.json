@@ -1,0 +1,1 @@
+{"url": "http://fakti.bg", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.fakti.bg\" && hasHandheldFriendlyMeta();}"], "title": "fakti.bg sends desktop site to Firefox OS"}

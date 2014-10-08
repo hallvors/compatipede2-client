@@ -1,0 +1,1 @@
+{"url": "http://www.ameba.jp/", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"s.amebame.com\";}"], "title": "ameba.jp shows blank page when browsing Firefox Android"}

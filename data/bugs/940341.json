@@ -1,0 +1,1 @@
+{"url": "http://www.mylifetime.com/video", "ua": "FirefoxOS", "steps": ["function (){\n                if(document.readyState != 'complete') return 'delay-and-retry';\n                return document.getElementById('player0.player') != null;\n            }"], "title": "mylifetime.com doesn't create video player on Firefox OS"}

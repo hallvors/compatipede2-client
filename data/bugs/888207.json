@@ -1,0 +1,1 @@
+{"url": "http://m.atrapalo.com", "steps": ["function (){return location.hostname.indexOf(\"m.atrapalo.com\")>-1 && mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

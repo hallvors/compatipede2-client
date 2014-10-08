@@ -1,0 +1,1 @@
+{"url": "http://www.getresponse.com/", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"m.getresponse.com\" && mobileLinkOrScriptUrl() && hasHandheldFriendlyMeta();}"], "title": "getresponse.com sends desktop site to Firefox OS"}

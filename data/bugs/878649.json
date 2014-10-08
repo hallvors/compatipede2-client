@@ -1,0 +1,1 @@
+{"url": "http://www.univision.com/", "steps": ["function (){return location.hostname.indexOf(\"movil.univision.com\")>-1 && hasViewportMeta()}"], "ua": "FirefoxOS"}

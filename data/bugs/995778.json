@@ -1,0 +1,1 @@
+{"url": "http://www.diputados.gob.mx", "steps": ["function (){return document.querySelector('a[href*=\"movil.diputados.gob.mx\"]') != null; }"], "ua": "FirefoxOS", "title": "diputados.gob.mx sends desktop site to Firefox OS"}

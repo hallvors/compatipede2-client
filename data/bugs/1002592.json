@@ -1,0 +1,1 @@
+{"url": "http://www.classicsmonthly.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.classicsmonthly.com\" && hasHandheldFriendlyMeta();}"], "title": "Classicsmonthly.com sends desktop site to Firefox OS"}

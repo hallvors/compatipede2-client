@@ -1,0 +1,1 @@
+{"url": "http://nikkansports.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && mobileLinkOrScriptUrl();}"], "title": "nikkansports.com sends desktop site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://www.sport.cz/fotbal/evropske-ligy/clanek/435450-video", "steps": ["function (){return location.hostname.indexOf(\"www.sport.cz\")>-1 && hasViewportMeta()}"], "ua": "FirefoxOS"}

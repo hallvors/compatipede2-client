@@ -1,0 +1,1 @@
+{"url": "http://trabajando.cl", "steps": ["function (){return location.hostname === 'm.trabajando.cl'}"], "ua": "FirefoxOS", "title": "trabajando.cl sends desktop site to Firefox OS"}

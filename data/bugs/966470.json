@@ -1,0 +1,1 @@
+{"url": "http://www.ign.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.ign.com\";}"], "title": "ign.com serves FxOS desktop site"}

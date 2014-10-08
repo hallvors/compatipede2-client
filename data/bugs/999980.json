@@ -1,0 +1,1 @@
+{"url": "http://predpriemach.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "predpriemach.com sends desktop site to Firefox OS"}

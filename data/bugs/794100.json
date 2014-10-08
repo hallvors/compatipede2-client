@@ -1,0 +1,1 @@
+{"url": "http://support.brightcove.com/en/docs/video-test-html-5", "ua": "FirefoxOS", "steps": ["function (){for (var i = 0; i < document.links.length; i++) {\n                if(document.links[i].href.indexOf('adobe.com/go/getflash')>-1)return false;\n            }; return true;}"], "title": "h264 video player (Brightcove) is busted on non-flash enabled FF Android or FF OS"}

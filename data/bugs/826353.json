@@ -1,0 +1,1 @@
+{"url": "http://itau.com.br", "steps": ["function (){return location.pathname.indexOf('/M')===0}"], "ua": "FirefoxOS"}

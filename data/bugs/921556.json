@@ -1,0 +1,1 @@
+{"url": "http://taobao.com", "steps": ["function (){return location.hostname.indexOf(\"m.taobao.com\")>-1 && hasViewportMeta()}"], "ua": "FirefoxOS"}

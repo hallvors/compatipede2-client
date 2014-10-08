@@ -1,0 +1,1 @@
+{"url": "http://www.banorte.com", "steps": ["function (){return location.pathname.indexOf('/mobile/')>-1}"], "ua": "FirefoxOS"}

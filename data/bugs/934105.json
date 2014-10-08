@@ -1,0 +1,1 @@
+{"url": "http://www.macuser.gr", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "macuser.gr doesn't show mobile design on Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://ebs.in", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && hasHandheldFriendlyMeta();}"], "title": "ebs.in sends desktop site to Firefox OS"}

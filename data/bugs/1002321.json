@@ -1,0 +1,1 @@
+{"url": "http://www.epagine.fr/", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === 'm.epagine.fr';}"], "title": "epagine.fr sends desktop content to Firefox OS"}

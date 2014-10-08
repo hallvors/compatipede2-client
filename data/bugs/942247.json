@@ -1,0 +1,1 @@
+{"url": "http://kennedyandoswald.com", "ua": "FirefoxAndroid", "steps": ["function (){if(document.querySelectorAll('video,object').length===0) return 'delay-and-retry'; return hasVideoTags();}"], "title": "NatGeo Kennedy promo site blocks Firefox for Android for not having Flash"}

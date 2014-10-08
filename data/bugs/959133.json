@@ -1,0 +1,1 @@
+{"url": "http://wap.soso.com", "ua": "FirefoxOS", "steps": ["function (){return hasMobileOptimizedMeta() && document.querySelector('nav a') != null;}"], "title": "wap.soso.com sends simplified mobile site"}

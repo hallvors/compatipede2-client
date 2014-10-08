@@ -1,0 +1,1 @@
+{"url": "http://lenovo.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.lenovo.com\" && mobileLinkOrScriptUrl();}"], "title": "lenovo.com sends desktop site to Firefox OS"}

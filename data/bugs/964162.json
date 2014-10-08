@@ -1,0 +1,1 @@
+{"url": "http://www.sfr.fr/", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"m.sfr.fr\";}"], "title": "sfr.fr is sending desktop content to Firefox OS"}

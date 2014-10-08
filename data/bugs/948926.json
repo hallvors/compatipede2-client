@@ -1,0 +1,1 @@
+{"url": "https://touch.groupon.com/login", "steps": ["function (){return /gradient/.test(getComputedStyle(document.getElementsByTagName('header')[0],'').backgroundImage)}"], "ua": "FirefoxOS", "title": "Groupon login page is white washed"}

@@ -1,0 +1,1 @@
+{"url": "http://play.google.com", "steps": ["function (){ if(document.documentElement.scrollTop === 0){ scrollBy(0, 4000); return 'delay-and-retry';} return document.getElementsByClassName('sticky').length === 0 }"], "ua": "FirefoxAndroid", "title": "Google Play - Navigation overlay obstructing most of the app-pages"}

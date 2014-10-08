@@ -1,0 +1,1 @@
+{"url": "http://wellsfargo.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.wellsfargo.com\";}"], "title": "wellsfargo.com sends desktop site to Firefox OS"}

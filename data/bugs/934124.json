@@ -1,0 +1,1 @@
+{"url": "http://wap.abril.com.br", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "wap.abril.com.br HTML elements not rendered properly"}

@@ -1,0 +1,1 @@
+{"url": "http://hulu.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && hasVideoTags();}"], "title": "hulu.com does not play video in Firefox on Android or Firefox OS"}

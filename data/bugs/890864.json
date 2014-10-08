@@ -1,0 +1,1 @@
+{"url": "http://www.mibebeyyo.com/", "steps": ["function (){ // site is now responsive! \\o/\n            if(!document.body)return 'delay-and-retry';\n            return document.body.className.indexOf('homepage')>-1; // not sure if we should keep this test though..\n        }"], "ua": "FirefoxOS"}

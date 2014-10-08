@@ -1,0 +1,1 @@
+{"url": "http://download.com", "steps": ["function (){ return location.hostname.indexOf('m.download.cnet.com')>-1 && hasViewportMeta(); }"], "ua": "FirefoxOS"}

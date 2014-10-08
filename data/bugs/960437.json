@@ -1,0 +1,1 @@
+{"url": "http://excite.co.jp", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"a.excite.co.jp\" && mobileLinkOrScriptUrl();}"], "title": "excite.co.jp sends desktop site to Firefox OS"}

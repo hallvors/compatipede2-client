@@ -1,0 +1,1 @@
+{"url": "http://cnni.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"edition.cnn.com\";}"], "title": "cnni.com sends desktop site to Firefox OS and Firefox on Android"}

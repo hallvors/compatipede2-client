@@ -1,0 +1,1 @@
+{"url": "http://www.jeuxvideo.fr/", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"mobile.jeuxvideo.fr\" && mobileLinkOrScriptUrl();}"], "title": "jeuxvideo.fr is sending desktop content to Firefox OS"}

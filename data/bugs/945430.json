@@ -1,0 +1,1 @@
+{"url": "http://ups.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.ups.com\" && mobileLinkOrScriptUrl();}"], "title": "http://ups.com gives the desktop site to B2G"}

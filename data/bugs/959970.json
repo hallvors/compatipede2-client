@@ -1,0 +1,1 @@
+{"url": "http://fnb.mobi", "ua": "FirefoxOS1.4", "steps": ["function (){}", "function (){if(/REDIRECT/.test(location.pathname))return 'delay-and-retry'; return hasViewportMeta() && location.hostname == 'ww2.fnb.mobi';}"], "title": "fnb.mobi sends simplified site to Firefox OS"}

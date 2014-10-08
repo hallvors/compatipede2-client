@@ -1,0 +1,1 @@
+{"url": "http://automart.co.za", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"m.automart.co.za\";}"], "title": "automart.co.za sends desktop site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://www.lvmama.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.lvmama.com\" && mobileLinkOrScriptUrl();}"], "title": "www.lvmama.com sends desktop site to Firefox OS"}

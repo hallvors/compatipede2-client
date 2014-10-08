@@ -1,0 +1,1 @@
+{"url": "http://sixt.de", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.sixt.de\" && mobileLinkOrScriptUrl();}"], "title": "sixt.de sends desktop site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://sinaloa.gob.mx", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && mobileLinkOrScriptUrl();}"], "title": "sinaloa.gob.mx sends desktop site to Firefox OS"}

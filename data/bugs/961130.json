@@ -1,0 +1,1 @@
+{"url": "http://www.carsales.com.au", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"carsales.mobi\" }"], "title": "Carsales.com.au serves Firefox OS desktop site"}

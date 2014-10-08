@@ -1,0 +1,1 @@
+{"url": "http://greatandhra.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.greatandhra.com\";}"], "title": "greatandhra.com sends desktop site to Firefox OS"}

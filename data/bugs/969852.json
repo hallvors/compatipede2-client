@@ -1,0 +1,1 @@
+{"url": "http://www.otto.de", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.otto.de\" && mobileLinkOrScriptUrl();}"], "title": "otto.de sends desktop site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://www.lectio.dk/lectio/531/SkemaNy.aspx?type=elev&elevid=4541970184", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && hasMobileOptimizedMeta() && hasHandheldFriendlyMeta();}"], "title": "Lectio website does not work in Firefox for Android phone"}

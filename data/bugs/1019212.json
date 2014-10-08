@@ -1,0 +1,1 @@
+{"url": "http://priceline.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "priceline.com sends desktop site to Firefox OS"}

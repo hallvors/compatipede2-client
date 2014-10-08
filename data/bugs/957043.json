@@ -1,0 +1,1 @@
+{"url": "http://mixi.jp/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "mixi.jp sends the desktop version for Firefox on Mobile"}

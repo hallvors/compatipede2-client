@@ -1,0 +1,1 @@
+{"url": "http://starmedia.com", "steps": ["function (){return location.hostname=='m.starmedia.com'}"], "ua": "FirefoxOS", "title": "m.starmedia.com doesn't display correctly in Gaia browser"}

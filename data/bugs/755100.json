@@ -1,0 +1,1 @@
+{"url": "http://m.dictionary.com/", "steps": ["function (){return hasViewportMeta() /*(regression test, expected to pass)*/}"], "ua": "FirefoxOS"}

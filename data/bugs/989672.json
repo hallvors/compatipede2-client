@@ -1,0 +1,1 @@
+{"url": "http://trabajo.gob.pe", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"www.trabajo.gob.pe\";}"], "title": "trabajo.gob.pe sends desktop site to Firefox OS"}

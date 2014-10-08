@@ -1,0 +1,1 @@
+{"url": "http://wap.elong.com", "steps": ["function (){}", "function (){return location.hostname=='m.elong.com';}"], "ua": "FirefoxOS", "title": "wap.elong.com does not automatically redirect to m.elong.com"}

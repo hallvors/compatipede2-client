@@ -1,0 +1,1 @@
+{"url": "http://cndh.org.mx", "ua": "FirefoxOS", "steps": ["function (){return mobileLinkOrScriptUrl();}"], "title": "cndh.org.mx sends desktop site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://www.cinesunidos.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"pda.cinesunidos.com\";}"], "title": "cinesunidos.com sends desktop site to Firefox OS"}

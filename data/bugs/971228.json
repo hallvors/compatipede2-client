@@ -1,0 +1,1 @@
+{"url": "http://www.geek.com", "ua": "FirefoxOS", "steps": ["function (){/*NOOP - js redirect must kick in*/}", "function (){/*NOOP - js redirect must kick in*/}", "function (){return location.hostname === \"mobile.geek.com\";}"], "title": "Geek.com serves mobile site to iphone, desktop site to Firefox mobile, Chrome, Opera"}

@@ -1,0 +1,1 @@
+{"url": "http://tranquilidad-hogar.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.tranquilidad-hogar.com\" && mobileLinkOrScriptUrl();}"], "title": "tranquilidad-hogar.com sends desktop site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://www.henrys.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.henrys.com\" && mobileLinkOrScriptUrl();}"], "title": "Henrys.com serves desktop site to Firefox OS instead of mobile"}

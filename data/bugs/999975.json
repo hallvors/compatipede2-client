@@ -1,0 +1,1 @@
+{"url": "http://dir.bg", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"smart.dir.bg\" && mobileLinkOrScriptUrl();}"], "title": "dir.bg sends desktop site to Firefox OS"}

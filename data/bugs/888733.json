@@ -1,0 +1,1 @@
+{"url": "http://www.crunchyroll.com/", "steps": ["function (){return location.hostname.indexOf(\"www.crunchyroll.com\")>-1 && mobileLinkOrScriptUrl() && hasViewportMeta() /*(regression test, expected to pass)*/}"], "ua": "FirefoxOS"}

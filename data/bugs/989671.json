@@ -1,0 +1,1 @@
+{"url": "http://inei.gob.pe", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.inei.gob.pe\" && mobileLinkOrScriptUrl();}"], "title": "inei.gob.pe sends desktop site to Firefox OS"}

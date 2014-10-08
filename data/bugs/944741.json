@@ -1,0 +1,1 @@
+{"url": "http://tiff.net/", "ua": "FirefoxOS", "steps": ["function (){return document.getElementById('mobile__menu')!=null;}"], "title": "tiff.net delivers desktop content to firefox OS"}

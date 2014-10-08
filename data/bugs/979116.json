@@ -1,0 +1,1 @@
+{"url": "http://yapo.cl", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.yapo.cl\" && mobileLinkOrScriptUrl();}"], "title": "yapo.cl sends desktop site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://wp.pl", "steps": ["function (){return location.hostname.indexOf(\"m.wp.pl\")>-1 && hasHandheldFriendlyMeta() && hasViewportMeta()}"], "ua": "FirefoxOS"}

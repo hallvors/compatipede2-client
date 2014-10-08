@@ -1,0 +1,1 @@
+{"url": "http://jugem.jp", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "jugem.jp sends desktop site to Firefox OS"}

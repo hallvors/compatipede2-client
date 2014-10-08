@@ -1,0 +1,1 @@
+{"url": "http://groupon.com.ar", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"m.groupon.com.ar\";}"], "title": "groupon.com.ar sends desktop site to Firefox OS"}

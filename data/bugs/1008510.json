@@ -1,0 +1,1 @@
+{"url": "http://blog.hu", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && mobileLinkOrScriptUrl();}"], "title": "blog.hu sends desktop site to Firefox OS"}

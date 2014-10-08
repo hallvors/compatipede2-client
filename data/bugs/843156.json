@@ -1,0 +1,1 @@
+{"url": "http://orbitz.com", "steps": ["function (){ // <meta content=\"mobile\" name=\"DCSext.deviceview\"></meta>\n            return document.querySelector('meta[content=\"mobile\"]') !== null;\n        }"], "ua": "FirefoxOS"}

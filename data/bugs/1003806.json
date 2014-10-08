@@ -1,0 +1,1 @@
+{"url": "http://www.lun.com/lunmobile//homepage.aspx", "steps": ["function (){return document.getElementById('UctNewsPaperArea1_rptNewsPaperArea_ctl01_imgNewsPaper').naturalWidth>200}"], "ua": "FirefoxOS"}

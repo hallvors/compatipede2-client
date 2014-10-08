@@ -1,0 +1,1 @@
+{"url": "http://www.wired.com/design/2014/01/super-detailed-photos-of-snowflakes-shot-with-hacked-camera/", "steps": ["function (){if(!document.querySelector('.entry p'))return 'delay-and-retry';return getComputedStyle(document.querySelector('.entry p')).wordBreak != 'break-word'}"], "ua": "FirefoxOS", "title": "Wired.com is not word wrapping properly for Firefox Android"}

@@ -1,0 +1,1 @@
+{"url": "http://www.emol.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && mobileLinkOrScriptUrl();}"], "title": "emol.com sends desktop site to Firefox OS"}

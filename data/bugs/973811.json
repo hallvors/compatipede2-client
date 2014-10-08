@@ -1,0 +1,1 @@
+{"url": "http://www.bhg.com", "ua": "FirefoxOS", "steps": ["function (){return hasHandheldFriendlyMeta();}"], "title": "bhg.com sends desktop content to Firefox OS"}

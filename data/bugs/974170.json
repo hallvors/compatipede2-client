@@ -1,0 +1,1 @@
+{"url": "http://www.nissanusa.com", "ua": "FirefoxOS", "steps": ["function (){return hasVideoTags() && location.hostname === \"m.nissanusa.com\";}"], "title": "nissanusa.com & nissan.ca send desktop site to Firefox OS"}

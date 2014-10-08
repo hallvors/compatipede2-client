@@ -1,0 +1,1 @@
+{"url": "http://www.kuronekoyamato.co.jp/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "www.kuronekoyamato.co.jp sends desktop site to Firefox OS"}

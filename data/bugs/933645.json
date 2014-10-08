@@ -1,0 +1,1 @@
+{"url": "http://timesofindia.com/", "steps": ["function (){return location.hostname == 'm.timesofindia.com'}"], "ua": "FirefoxOS", "title": "timesofindia.com isn't redirecting to mobile site on Firefox OS"}

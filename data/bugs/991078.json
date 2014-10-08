@@ -1,0 +1,1 @@
+{"url": "http://bdnews24.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.bdnews24.com\" && mobileLinkOrScriptUrl();}"], "title": "bdnews24.com sends desktop site to Firefox OS"}

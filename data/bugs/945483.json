@@ -1,0 +1,1 @@
+{"url": "http://www.nhl.com/ice/m_news.htm?id=719137", "steps": ["function (){ if(!document.querySelector('video,object'))return 'delay-and-retry'; return hasVideoTags(); }"], "ua": "FirefoxAndroid", "title": "HTML video playback for NeuLion video player [NFL, NHL, NBA, MLS, UFCtv, Premier League, etc.]"}

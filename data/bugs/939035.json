@@ -1,0 +1,1 @@
+{"url": "http://www.beyond.com", "ua": "FirefoxOS", "steps": ["function (){return mobileLinkOrScriptUrl();}"], "title": "beyond.com sends desktop content to FirefoxOS"}

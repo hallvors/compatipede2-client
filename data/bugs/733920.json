@@ -1,0 +1,1 @@
+{"url": "https://launchpad.37signals.com/basecamp/signin", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "Basecamp renders a desktop site for fennec, where as in stock browser, a mobile-optimized app is rendered"}

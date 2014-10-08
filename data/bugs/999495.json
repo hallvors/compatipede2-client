@@ -1,0 +1,1 @@
+{"url": "http://priceonomics.com/how-americans-hate-each-other/", "steps": ["function (){return document.querySelector('meta[content*=\"user-scalable=0\"]')==null;}"], "ua": "FirefoxOS", "title": "Priceonomics.com - Unable to zoom in/out on Firefox Android"}

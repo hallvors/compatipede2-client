@@ -1,0 +1,1 @@
+{"url": "http://chinaz.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"cm.chinaz.com\" && mobileLinkOrScriptUrl();}"], "title": "chinaz.com sends desktop site to Firefox OS"}

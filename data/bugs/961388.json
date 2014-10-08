@@ -1,0 +1,1 @@
+{"url": "http://makro.co.za", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "makro.co.za sends desktop site to Firefox OS"}

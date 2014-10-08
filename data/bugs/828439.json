@@ -1,0 +1,1 @@
+{"url": "http://movistar.com.ve/", "steps": ["function hasHandheldFriendlyMeta(){\n    for(var elms = document.getElementsByTagName('meta'), el, i=0; el=elms[i]; i++){\n        if(/HandheldFriendly/i.test(el.getAttribute('name')) && /true/i.test(el.getAttribute('content')))return true;\n    }\n    return false;\n}"], "ua": "FirefoxOS"}

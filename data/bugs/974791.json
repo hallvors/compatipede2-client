@@ -1,0 +1,1 @@
+{"url": "http://moneycontrol.com", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"m.moneycontrol.com\";}"], "title": "moneycontrol.com sends desktop site to Firefox OS"}

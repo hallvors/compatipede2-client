@@ -1,0 +1,1 @@
+{"url": "http://dmm.co.jp", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "dmm.co.jp sends desktop site to Firefox OS"}

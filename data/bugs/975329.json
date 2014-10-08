@@ -1,0 +1,1 @@
+{"url": "http://glasistre.hr", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.glasistre.hr\" && mobileLinkOrScriptUrl();}"], "title": "glasistre.hr sends desktop site to Firefox OS"}

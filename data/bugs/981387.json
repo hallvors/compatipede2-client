@@ -1,0 +1,1 @@
+{"url": "http://living.al", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"www.living.al\" && mobileLinkOrScriptUrl();}"], "title": "living.al has broken layout in Firefox OS"}

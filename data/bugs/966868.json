@@ -1,0 +1,1 @@
+{"url": "http://www.nick.com/videos/", "steps": ["function (){return document.querySelector('a.episode').click()}", "function (){if(!document.getElementById('video-player'))return 'delay-and-retry'; return hasVideoTags();}"], "ua": "FirefoxAndroid", "title": "nick.com doesn't play videos in Firefox OS or Firefox on Android"}

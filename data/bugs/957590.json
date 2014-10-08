@@ -1,0 +1,1 @@
+{"url": "http://weather1.sina.cn", "steps": ["function (){return location.search.indexOf('vt=1')==-1;}"], "ua": "FirefoxOS", "title": "weather1.sina.cn sends simplified mobile page to Firefox OS"}

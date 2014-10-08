@@ -1,0 +1,1 @@
+{"url": "http://m.tieyou.com", "ua": "FirefoxOS", "steps": ["function (){}", "function (){ if(window.IsPC)return ! window.IsPC();  return hasViewportMeta() && location.hostname === \"m.tieyou.com\" && mobileLinkOrScriptUrl();}"], "title": "m.tieyou.com sends desktop site to Firefox OS"}

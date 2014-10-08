@@ -1,0 +1,1 @@
+{"url": "http://economist.com", "steps": ["function (){return document.body.className.indexOf('econmobile')>-1;}"], "ua": "FirefoxOS"}

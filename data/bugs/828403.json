@@ -1,0 +1,1 @@
+{"url": "http://www.fotocasa.es/", "steps": ["function (){return location.hostname.indexOf(\"m.fotocasa.es\")>-1 && mobileLinkOrScriptUrl() && hasViewportMeta() /*(regression test, expected to pass)*/}"], "ua": "FirefoxOS"}

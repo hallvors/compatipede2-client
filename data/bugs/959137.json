@@ -1,0 +1,1 @@
+{"url": "http://bendi.m.taobao.com/coupon/q/index.htm", "steps": ["function (){return document.getElementsByClassName('shop-item').length > 0}"], "ua": "FirefoxOS", "title": "bendi.m.taobao.com coupon site never finishes loading, assumes global event variable in event handler"}

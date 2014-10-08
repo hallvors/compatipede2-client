@@ -1,0 +1,1 @@
+{"url": "http://www.koreaherald.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.koreaherald.com\" && mobileLinkOrScriptUrl();}"], "title": "www.koreaherald.com sends desktop site to Firefox OS"}

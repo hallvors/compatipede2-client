@@ -1,0 +1,1 @@
+{"url": "http://hindustantimes.com", "ua": "FirefoxOS", "steps": ["function (){return mobileLinkOrScriptUrl();}"], "title": "hindustantimes.com sends desktop site to Firefox OS"}

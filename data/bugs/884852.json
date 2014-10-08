@@ -1,0 +1,1 @@
+{"url": "http://icanhas.cheezburger.com", "steps": ["function (){return document.getElementById('js-globalnav').className.indexOf('is-fixed')==-1;}"], "ua": "FirefoxOS"}

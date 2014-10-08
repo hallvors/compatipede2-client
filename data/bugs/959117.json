@@ -1,0 +1,1 @@
+{"url": "http://m.sogou.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "m.sogou.com sends simplified site to Firefox OS"}

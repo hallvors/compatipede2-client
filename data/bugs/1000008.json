@@ -1,0 +1,1 @@
+{"url": "http://fxstreet.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"touch.fxstreet.com\";}"], "title": "fxstreet.com sends desktop site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://www.msn.com", "steps": ["function (){return location.href.indexOf('mobile.msn.')>-1 || hasViewportMeta()}"], "ua": "FirefoxOS"}

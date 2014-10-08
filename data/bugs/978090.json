@@ -1,0 +1,1 @@
+{"url": "http://bancochile.cl", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"www.bancamovil.bancochile.cl\";}"], "title": "bancochile.cl sends desktop site to Firefox OS"}

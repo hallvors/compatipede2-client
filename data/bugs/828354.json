@@ -1,0 +1,1 @@
+{"url": "http://gazeta.pl", "steps": ["function (){return location.hostname.indexOf(\"m.gazeta.pl\")>-1 && hasViewportMeta()}"], "ua": "FirefoxOS"}

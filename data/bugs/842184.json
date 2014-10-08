@@ -1,0 +1,1 @@
+{"url": "http://m.thestar.com", "steps": ["function (){return document.getElementsByName('mobile-web-app-capable').length>0}"], "ua": "FirefoxAndroid"}

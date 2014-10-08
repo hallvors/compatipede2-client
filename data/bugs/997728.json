@@ -1,0 +1,1 @@
+{"url": "http://shop.mango.com", "ua": "FirefoxOS", "steps": ["function (){return mobileLinkOrScriptUrl();}"], "title": "Shop.mango.com responsive site shows desktop view on Firefox OS"}

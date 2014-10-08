@@ -1,0 +1,1 @@
+{"url": "http://icicilombard.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && mobileLinkOrScriptUrl();}"], "title": "icicilombard.com sends desktop site to Firefox OS"}

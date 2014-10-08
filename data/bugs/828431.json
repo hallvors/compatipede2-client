@@ -1,0 +1,1 @@
+{"url": "http://espn.go.com", "steps": ["function (){ /*NOOP - let redirect kick in*/ }", "function (){\n            if(document.readyState != 'complete') return 'delay-and-retry';\n            return location.hostname.indexOf('m.espn')>-1\n        }"], "ua": "FirefoxOS"}

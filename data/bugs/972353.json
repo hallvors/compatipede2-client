@@ -1,0 +1,1 @@
+{"url": "http://www.sol.no", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.sol.no\";}"], "title": "sol.no sends desktop site to Firefox OS and Firefox for Android"}

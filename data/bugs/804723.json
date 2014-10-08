@@ -1,0 +1,1 @@
+{"url": "http://google.ro", "steps": ["function (){return hasViewportMeta() /*(regression test, expected to pass)*/}"], "ua": "FirefoxOS"}

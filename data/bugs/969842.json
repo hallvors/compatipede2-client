@@ -1,0 +1,1 @@
+{"url": "http://welt.de", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.welt.de\";}"], "title": "welt.de sends desktop site to Firefox OS and Firefox on Android"}

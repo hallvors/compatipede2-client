@@ -1,0 +1,1 @@
+{"url": "http://www.voyages-sncf.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"voyages-sncf.mobi\";}"], "title": "www.voyages-sncf.com sends desktop site to Firefox OS"}

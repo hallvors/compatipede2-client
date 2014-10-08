@@ -1,0 +1,1 @@
+{"url": "http://plotek.pl", "steps": ["function (){return location.hostname === 'm.plotek.pl' || window.gazeta_pl && gazeta_pl.mobileInfo && gazeta_pl.mobileInfo.isMobileDevice?true:false;}"], "ua": "FirefoxOS"}

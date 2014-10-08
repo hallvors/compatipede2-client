@@ -1,0 +1,1 @@
+{"url": "http://m.mtv.com/videos/video.rbml?id=mgid:uma:video:mtv.com:968635&source=musicvideos", "steps": ["function (){if(!document.getElementById('video-player'))return 'delay-and-retry'}", "function (){return document.getElementById('video-player').getElementsByTagName('iframe').length>0;}"], "ua": "FirefoxOS", "title": "mtv.com: No video in Firefox OS or Firefox on Android"}

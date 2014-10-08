@@ -1,0 +1,1 @@
+{"url": "http://techtudo.com.br/", "steps": ["function (){return document.getElementsByClassName('burger').length>0;}"], "ua": "FirefoxOS"}

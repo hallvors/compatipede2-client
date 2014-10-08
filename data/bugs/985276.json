@@ -1,0 +1,1 @@
+{"url": "http://m.taobao.com", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"m.taobao.com\" && document.getElementById('first-view')!=null && document.getElementsByClassName('sliderwrap')[0].style.transform!='';}"], "title": "taobao.com fancy mobile site has broken layout in Firefox OS"}

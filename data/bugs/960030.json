@@ -1,0 +1,1 @@
+{"url": "http://us.jobrapido.com", "ua": "FirefoxOS", "steps": ["function (){return mobileLinkOrScriptUrl() || document.documentElement.className.indexOf('mobile')>-1;}"], "title": "jobrapido.com sends desktop site to Firefox OS"}

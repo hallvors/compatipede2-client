@@ -1,0 +1,1 @@
+{"url": "http://litedetection.apachemobilefilter.org/index.php?amf=Mozilla%2F5.0+%28Mobile%3B+rv%3A18.0%29+Gecko%2F18.0+Firefox%2F18.0", "steps": ["function (){return document.body.textContent.match(/TOUCH\\s*false/)?false:true;}"], "ua": "FirefoxOS"}

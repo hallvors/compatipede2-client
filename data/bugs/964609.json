@@ -1,0 +1,1 @@
+{"url": "http://www.metronews.fr/", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"touch.metronews.fr\";}"], "title": "www.metronews.fr sends desktop site to Firefox OS"}

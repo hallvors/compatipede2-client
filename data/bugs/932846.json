@@ -1,0 +1,1 @@
+{"url": "http://rediff.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.rediff.com\" && mobileLinkOrScriptUrl();}"], "title": "rediff.com isn't redirecting to mobile site on Firefox OS"}

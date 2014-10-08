@@ -1,0 +1,1 @@
+{"url": "https://www.google.com/calendar/", "steps": ["function (){return location.pathname.indexOf('calendar/m')===-1 /* sniffing part */ && cssCheck(['ci-btn-reg', 'ci-btn-back', 'ci-btn-right', 'ci-icn-reload', 'ci-icn-plus', 'ci-icn-right-ip'], 'borderImageSource') /* -webkit-border-image part */}"], "ua": "FirefoxAndroid", "loginRequired": true}

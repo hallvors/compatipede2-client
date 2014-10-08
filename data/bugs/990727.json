@@ -1,0 +1,1 @@
+{"url": "http://badoo.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "badoo.com sends simplified content to Firefox OS"}

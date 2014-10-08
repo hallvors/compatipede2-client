@@ -1,0 +1,1 @@
+{"url": "http://olx.co.za", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.olx.co.za\" && mobileLinkOrScriptUrl();}"], "title": "olx.co.za sends desktop site to Firefox OS"}

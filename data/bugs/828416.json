@@ -1,0 +1,1 @@
+{"url": "http://loteriasyapuestas.es/", "steps": ["function (){return location.hostname.indexOf(\"m.loteriasyapuestas.es\")>-1 && mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

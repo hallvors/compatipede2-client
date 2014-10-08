@@ -1,0 +1,1 @@
+{"url": "http://tecmundo.com.br", "steps": ["function (){return hasViewportMeta() && document.getElementsByTagName('script').length<30}"], "ua": "FirefoxOS"}

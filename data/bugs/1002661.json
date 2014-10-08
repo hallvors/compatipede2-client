@@ -1,0 +1,1 @@
+{"url": "http://www.edge-online.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.edge-online.com\" && mobileLinkOrScriptUrl() && hasHandheldFriendlyMeta();}"], "title": "Edge-online.com sends desktop site to Firefox OS"}

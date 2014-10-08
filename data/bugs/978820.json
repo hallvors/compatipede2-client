@@ -1,0 +1,1 @@
+{"url": "http://www.tn.com.ar", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"m.tn.com.ar\" && mobileLinkOrScriptUrl();}"], "title": "tn.com.ar sends desktop site to Firefox OS"}

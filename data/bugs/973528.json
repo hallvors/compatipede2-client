@@ -1,0 +1,1 @@
+{"url": "http://m.aljazeera.com/home/watch", "ua": "FirefoxOS", "steps": ["function (){for(var i=0,el;el=document.links[i];i++){if(el.protocol === 'rtsp:')return true;}return false;}"], "title": "aljazeera.com shows neither video nor plays audio, courtesy of BrightCove"}

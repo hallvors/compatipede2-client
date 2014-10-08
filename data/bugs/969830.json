@@ -1,0 +1,1 @@
+{"url": "http://www.ebay.de", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"m.ebay.de\" && mobileLinkOrScriptUrl();}"], "title": "ebay.de doesn't load mobile site for FOS."}

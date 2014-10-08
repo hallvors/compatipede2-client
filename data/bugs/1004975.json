@@ -1,0 +1,1 @@
+{"url": "http://kotaksecurities.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"mobile.kotaksecurities.com\" && mobileLinkOrScriptUrl();}"], "title": "kotaksecurities.com sends desktop site to Firefox OS"}

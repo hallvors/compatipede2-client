@@ -1,0 +1,1 @@
+{"url": "http://in.bookmyshow.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "in.bookmyshow.com isn't redirecting to mobile site on Firefox OS"}

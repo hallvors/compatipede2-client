@@ -1,0 +1,1 @@
+{"url": "http://www.booking.com/", "steps": ["function (){return mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

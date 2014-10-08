@@ -1,0 +1,1 @@
+{"url": "http://match.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname.indexOf(\"touch.\") >-1 && hasHandheldFriendlyMeta();}"], "title": "match.com sends simplified site to Firefox OS"}

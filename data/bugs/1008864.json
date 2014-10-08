@@ -1,0 +1,1 @@
+{"url": "http://vizionplus.al", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "vizionplus.al (and vizionplus.tv) sends desktop site to Firefox OS"}

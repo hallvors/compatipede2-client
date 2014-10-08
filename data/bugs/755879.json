@@ -1,0 +1,1 @@
+{"url": "http://pitchfork.com/", "steps": ["function (){return location.hostname.indexOf(\"m.pitchfork.com\")>-1 && mobileLinkOrScriptUrl() && hasViewportMeta() && cssCheck(['auto'], 'transition')}"], "ua": "FirefoxOS"}

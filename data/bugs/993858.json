@@ -1,0 +1,1 @@
+{"url": "http://indiankanoon.org", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && mobileLinkOrScriptUrl() && hasHandheldFriendlyMeta();}"], "title": "indiankanoon.org sends desktop site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://tieba.baidu.com/", "ua": "FirefoxOS", "steps": ["function (){return hasVideoTags();}"], "title": "tieba.baidu.com serves desktop content to Firefox OS"}

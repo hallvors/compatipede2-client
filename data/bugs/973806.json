@@ -1,0 +1,1 @@
+{"url": "http://video.disney.co.jp", "ua": "FirefoxOS", "steps": ["function (){return mobileLinkOrScriptUrl();}"], "title": "video.disney.co.jp sends desktop content, shows flash error instead of video"}

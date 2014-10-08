@@ -1,0 +1,1 @@
+{"url": "http://harrypotter.wikia.com/", "ua": "FirefoxOS", "steps": ["function (){return hasMobileOptimizedMeta() && mobileLinkOrScriptUrl() && hasHandheldFriendlyMeta();}"], "title": "wikia.com serves desktop content to FirefoxOS because of UA sniffing"}

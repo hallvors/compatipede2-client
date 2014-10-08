@@ -1,0 +1,1 @@
+{"url": "http://www.orange.es/", "steps": ["function (){return location.hostname.indexOf(\"m.orange.es\")>-1 && hasHandheldFriendlyMeta() && mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

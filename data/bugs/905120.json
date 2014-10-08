@@ -1,0 +1,1 @@
+{"url": "http://lufthansa.de", "steps": ["function (){var tmp;if(tmp=document.getElementById('language')){ if(tmp.tagName === 'SELECT')tmp.form.submit(); }}", "function (){ return location.hostname.indexOf('mobile.lufthansa')>-1 && mobileLinkOrScriptUrl('airportlist.do') }"], "ua": "FirefoxOS"}

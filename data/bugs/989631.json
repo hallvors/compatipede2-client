@@ -1,0 +1,1 @@
+{"url": "http://sunarp.gob.pe", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.sunarp.gob.pe\";}"], "title": "sunarp.gob.pe sends desktop site to Firefox OS"}

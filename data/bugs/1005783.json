@@ -1,0 +1,1 @@
+{"url": "http://m.bing.com/maps", "steps": ["function (){ return document.scripts.length > 5; }"], "ua": "FirefoxOS"}

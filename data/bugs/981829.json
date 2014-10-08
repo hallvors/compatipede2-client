@@ -1,0 +1,1 @@
+{"url": "http://www.chicagotribune.com/", "ua": "FirefoxOS", "steps": ["function (){\n                return hasViewportMeta() && location.hostname === \"www.chicagotribune.com\";}"], "title": "Chicago Tribune - redirection loop with Firefox for Android UA"}

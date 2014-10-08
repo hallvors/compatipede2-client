@@ -1,0 +1,1 @@
+{"url": "https://www.tripcase.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"www.tripcase.com\" && getComputedStyle(document.querySelector('.tc-button-green'), '').background!='';}"], "title": "tripcase.com mobile site doesn't display gradients correctly"}

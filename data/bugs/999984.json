@@ -1,0 +1,1 @@
+{"url": "http://mail.bg", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.mail.bg\" && mobileLinkOrScriptUrl();}"], "title": "mail.bg sends desktop site to Firefox OS"}

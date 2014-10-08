@@ -1,0 +1,1 @@
+{"url": "http://www.globeandmail.ca/", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"m.theglobeandmail.com\";}"], "title": "www.globeandmail.ca is displayed poorly in Browser"}

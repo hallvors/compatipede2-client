@@ -1,0 +1,1 @@
+{"url": "http://ikub.al", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"mobile.ikub.al\" && mobileLinkOrScriptUrl();}"], "title": "ikub.al has broken layout in Firefox OS"}

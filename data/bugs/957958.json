@@ -1,0 +1,1 @@
+{"url": "http://m.idnes.cz/", "ua": "FirefoxOS", "steps": ["function (){return location.hostname == 't.idnes.cz';}"], "title": "m.idnes.cz serves basic mobile site to Firefox for OS"}

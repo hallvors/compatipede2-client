@@ -1,0 +1,1 @@
+{"url": "http://www.national-lottery.co.uk/", "steps": ["function (){return location.hostname.indexOf(\"m.national-lottery.co.uk\")>-1 && hasViewportMeta()}"], "ua": "FirefoxOS"}

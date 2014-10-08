@@ -1,0 +1,1 @@
+{"url": "http://www.airfrance.fr/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"mobile.airfrance.fr\" && mobileLinkOrScriptUrl();}"], "title": "airfrance.fr sends desktop content to Firefox OS"}

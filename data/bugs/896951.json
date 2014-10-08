@@ -1,0 +1,1 @@
+{"url": "http://www.spiegel.de", "steps": ["function (){return location.hostname.indexOf('ml.spiegel')>-1}"], "ua": "FirefoxOS"}

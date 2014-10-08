@@ -1,0 +1,1 @@
+{"url": "http://www.pathfinder.gr", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"i.pathfinder.gr\";}"]}

@@ -1,0 +1,1 @@
+{"url": "http://startsiden.no", "ua": "FirefoxOS", "steps": ["function (){return mobileLinkOrScriptUrl();}"], "title": "startsiden.no sends desktop site to Firefox OS"}

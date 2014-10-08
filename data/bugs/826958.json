@@ -1,0 +1,1 @@
+{"url": "http://ebay.com", "steps": ["function (){return location.hostname.indexOf(\"m.ebay.com\")>-1 && mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

@@ -1,0 +1,1 @@
+{"url": "http://fin24.com", "steps": ["function (){return document.getElementsByClassName('relative').length>3}"], "ua": "FirefoxOS", "title": "fin24.com sends simplified site to Firefox OS"}

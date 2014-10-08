@@ -1,0 +1,1 @@
+{"url": "http://blackhatteam.com", "steps": ["function (){return mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

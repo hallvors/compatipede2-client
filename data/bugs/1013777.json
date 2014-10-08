@@ -1,0 +1,1 @@
+{"url": "http://sina.cn", "ua": "FirefoxOS", "steps": ["function (){return mobileLinkOrScriptUrl();}"], "title": "sina.cn sends Firefox OS to the simplified mobile site"}

@@ -1,0 +1,1 @@
+{"url": "http://www.live.com/", "steps": ["function (){ return location.href.indexOf('wreply=https:%2F%2Fmail.live.com%2Fm%2F')>-1 }"], "ua": "FirefoxOS"}

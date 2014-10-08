@@ -1,0 +1,1 @@
+{"url": "http://blip.tv/commercialbreak/selling-out-colleen-ryan-6687803", "steps": ["function (){return hasViewportMeta() /*(regression test, expected to pass)*/ && document.getElementById('PlayeriFrame')!==null}"], "ua": "FirefoxOS"}

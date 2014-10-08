@@ -1,0 +1,1 @@
+{"url": "http://mobile.reuters.com/", "steps": ["function (){return document.getElementsByTagName('nav').length>0;  mobileLinkOrScriptUrl() /*(regression test, expected to pass)*/ && hasViewportMeta()}"], "ua": "FirefoxOS", "title": "mobile.reuters.com sends a low-fi mobile version to Firefox OS"}

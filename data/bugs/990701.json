@@ -1,0 +1,1 @@
+{"url": "http://prothom-alo.com", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"m.prothom-alo.com\";}"], "title": "prothom-alo.com sends desktop site to Firefox OS"}

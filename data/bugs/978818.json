@@ -1,0 +1,1 @@
+{"url": "http://taringa.net", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.taringa.net\";}"], "title": "taringa.net sends simplified site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://jappy.de/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.jappy.de\";}"], "title": "jappy.de sends desktop site to Firefox OS"}

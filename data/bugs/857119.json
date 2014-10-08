@@ -1,0 +1,1 @@
+{"url": "http://photobucket.com/images/black%20and%20white?page=1", "steps": ["function (){ return document.images.length>=10 }"], "ua": "FirefoxOS"}

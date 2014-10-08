@@ -1,0 +1,1 @@
+{"url": "http://weather.com", "steps": ["function (){return location.hostname.indexOf(\"m.weather.com\")>-1 }"], "ua": "FirefoxAndroid"}

@@ -1,0 +1,1 @@
+{"url": "http://app.nytimes.com/", "steps": ["function (){return document.body.textContent.indexOf('Your browser is not supported')===-1 && document.body.textContent.indexOf('not yet support smartphone')===-1 }"], "ua": "FirefoxAndroid", "title": "app.nytimes.com does not support Firefox for Android"}

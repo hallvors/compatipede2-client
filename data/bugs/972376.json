@@ -1,0 +1,1 @@
+{"url": "http://adressa.no", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && mobileLinkOrScriptUrl();}"], "title": "adressa.no sends desktop site to Firefox OS"}

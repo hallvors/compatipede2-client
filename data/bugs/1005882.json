@@ -1,0 +1,1 @@
+{"url": "http://infonews.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.infonews.com\" && mobileLinkOrScriptUrl();}"], "title": "infonews.com sends desktop site to Firefox OS"}

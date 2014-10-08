@@ -1,0 +1,1 @@
+{"url": "http://m.r7.com/universalizationLayer/m/t/videos", "steps": ["function (){for(var i=0; i<document.links.length; i++){if(document.links[i].style.display === 'block'){document.links[i].click();return null;}}}", "function (){return document.body.textContent.indexOf('Desculpe nos')===-1}"], "ua": "FirefoxOS", "title": "m.r7.com can\u2019t play a video"}

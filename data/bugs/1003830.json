@@ -1,0 +1,1 @@
+{"url": "http://www.chileautos.cl/chileautos.asp", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.chileautos.cl\";}"], "title": "chileautos.cl sends desktop site to Firefox OS"}

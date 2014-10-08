@@ -1,0 +1,1 @@
+{"url": "http://www.tokyoartbeat.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "tokyoartbeat.com sends desktop content to Firefox OS"}

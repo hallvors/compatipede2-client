@@ -1,0 +1,1 @@
+{"url": "http://internetactu.blog.lemonde.fr/2014/02/14/de-quoi-les-google-bus-sont-ils-le-symptome/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "*.blog.lemonde.fr sends the desktop content to Firefox OS"}

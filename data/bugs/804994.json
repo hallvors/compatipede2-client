@@ -1,0 +1,1 @@
+{"url": "http://twitch.tv", "steps": ["function hasVideoTags(){\n    return !!document.getElementsByTagName('video').length;\n}"], "ua": "FirefoxAndroid"}

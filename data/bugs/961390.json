@@ -1,0 +1,1 @@
+{"url": "http://www.answers.com/", "ua": "FirefoxOS", "steps": ["function (){return document.documentElement.className.indexOf('touchscreen')>-1;}"], "title": "answers.com sends desktop site to Firefox OS"}

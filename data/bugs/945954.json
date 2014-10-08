@@ -1,0 +1,1 @@
+{"url": "http://map.baidu.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && mobileLinkOrScriptUrl();}"], "title": "map.baidu.com serves a broken mobile site to Firefox Android"}

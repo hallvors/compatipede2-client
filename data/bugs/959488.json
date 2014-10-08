@@ -1,0 +1,1 @@
+{"url": "http://m.m18.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && mobileLinkOrScriptUrl();}"], "title": "m.m18.com sends desktop site to Firefox OS"}

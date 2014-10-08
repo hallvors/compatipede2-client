@@ -1,0 +1,1 @@
+{"url": "http://www.realmobile.gr", "ua": "FirefoxAndroid", "steps": ["function (){location.hostname === \"www.realmobile.gr\" && getComputedStyle(document.querySelector('.list .title'), '').background != \"\";}"], "title": "realmobile.gr doesn't render properly on Firefox for Android"}

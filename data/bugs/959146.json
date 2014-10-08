@@ -1,0 +1,1 @@
+{"url": "http://zuoche.com/m/", "steps": ["function (){return location.pathname.indexOf('touch')>-1}"], "ua": "FirefoxOS", "title": "zuoche.com/m/ sends simplified site to Firefox OS"}

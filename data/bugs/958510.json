@@ -1,0 +1,1 @@
+{"url": "https://www.tripcase.com", "steps": ["function (){return hasViewportMeta() && location.hostname === \"www.tripcase.com\" && mobileLinkOrScriptUrl();}"], "ua": "FirefoxOS"}

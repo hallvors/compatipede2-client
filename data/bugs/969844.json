@@ -1,0 +1,1 @@
+{"url": "http://mobile.de", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.mobile.de\";}"], "title": "mobile.de sends desktop site to Firefox OS and Firefox on Android"}

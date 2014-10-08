@@ -1,0 +1,1 @@
+{"url": "http://vip.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.vip.com\" && mobileLinkOrScriptUrl();}"], "title": "vip.com sends Firefox OS to Desktop site"}

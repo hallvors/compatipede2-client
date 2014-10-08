@@ -1,0 +1,1 @@
+{"url": "http://financialexpress.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.financialexpress.com\" && mobileLinkOrScriptUrl();}"], "title": "financialexpress.com sends desktop site to Firefox OS"}

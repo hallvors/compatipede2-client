@@ -1,0 +1,1 @@
+{"url": "http://www.reuters.com/finance/stocks/OPERA.OL/key-developments/article/2833426", "steps": ["function (){return document.title != 'Page Load Error'}"], "ua": "FirefoxAndroid", "title": "redirect loop on Reuters page"}

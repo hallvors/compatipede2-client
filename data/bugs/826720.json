@@ -1,0 +1,1 @@
+{"url": "http://olx.com.br", "steps": ["function (){return location.hostname.indexOf(\"m.olx.com.br\")>-1 && hasViewportMeta()}"], "ua": "FirefoxOS"}

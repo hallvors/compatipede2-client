@@ -1,0 +1,1 @@
+{"url": "http://deser.pl/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.deser.pl\";}"], "title": "deser.pl doesn't recognize B2G UA as mobile"}

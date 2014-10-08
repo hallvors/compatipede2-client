@@ -1,0 +1,1 @@
+{"url": "https://github.com/g13n/ua.js/blob/master/src/ua.js#L90-L100", "steps": ["function (){if(document.body.textContent.indexOf('isTablet:')==-1)return 'delay-and-retry'; return document.body.textContent.indexOf('isTablet: detect(/(ipad|android(?!.*mobile)|tablet)/i)') > -1}"], "ua": "FirefoxOS", "title": "ua.js fails to recognize FxOS Tablet UA as tablet device"}

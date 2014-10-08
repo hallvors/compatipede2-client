@@ -1,0 +1,1 @@
+{"url": "http://commentcamarche.net/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.commentcamarche.net\" && hasMobileOptimizedMeta() && mobileLinkOrScriptUrl() && hasHandheldFriendlyMeta();}"], "title": "commentcamarche.net is sending desktop content to Firefox OS"}

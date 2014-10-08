@@ -1,0 +1,1 @@
+{"url": "http://www.google.com/m/finance", "steps": ["function (){return document.getElementById('markets-summary')!=null}"], "ua": "FirefoxOS", "title": "Google Finance - Suboptimal site, not optimized site renders on Fennec Native Due to UA sniffing"}

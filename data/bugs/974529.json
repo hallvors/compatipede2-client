@@ -1,0 +1,1 @@
+{"url": "http://www.bestbuy.ca", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.bestbuy.ca\" && mobileLinkOrScriptUrl();}"], "title": "Bestbuy.ca and Futureshop.ca send Firefox OS to desktop site instead of mobile."}

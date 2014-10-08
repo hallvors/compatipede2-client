@@ -1,0 +1,1 @@
+{"url": "https://stacksocial.com/", "ua": "FirefoxOS", "steps": ["function (){return document.getElementsByClassName('carrousel').length === 0 || document.getElementsByClassName('carrousel')[0].scrollWidth <= screen.width;}"], "title": "stacksocial.com sends pop up larger than the viewport to Firefox OS"}

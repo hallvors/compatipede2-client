@@ -1,0 +1,1 @@
+{"url": "http://banrisul.com.br", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"ww7.banrisul.com.br\";}"], "title": "banrisul.com.br sends desktop site to Firefox OS"}

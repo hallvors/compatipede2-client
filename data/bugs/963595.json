@@ -1,0 +1,1 @@
+{"url": "https://raw2.github.com/fnando/browser/master/lib/browser/methods/devices.rb", "steps": ["function (){return document.body.textContent.match(/\\/Tablet/) != null}"], "ua": "FirefoxOS", "title": "browser gem doesn't recognize Firefox OS tablet ua as tablet"}

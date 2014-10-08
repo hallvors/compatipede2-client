@@ -1,0 +1,1 @@
+{"url": "http://tf1.fr/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.tf1.fr\";}"], "title": "tf1.fr sends desktop site to Firefox OS"}

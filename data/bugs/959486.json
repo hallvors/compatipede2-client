@@ -1,0 +1,1 @@
+{"url": "http://voice.meiriyiwen.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "meiriyiwen.com sends desktop site to Firefox OS"}

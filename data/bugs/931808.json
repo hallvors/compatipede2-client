@@ -1,0 +1,1 @@
+{"url": "http://news247.gr", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.news247.gr\" && mobileLinkOrScriptUrl();}"], "title": "news247.gr doesn't redirect to mobile site on Firefox OS"}

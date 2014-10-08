@@ -1,0 +1,1 @@
+{"url": "http://www.santander.com.br/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.santander.com.br\";}"], "title": "Redirect loop prevents access to Santander Brasil (Brazilian bank)"}

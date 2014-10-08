@@ -1,0 +1,1 @@
+{"url": "http://maps.google.com", "steps": ["function (){\n            if(!('gDeviceCapabilities' in window))return 'delay-and-retry';\n            return window.gDeviceCapabilities[1] === undefined;\n        }"], "ua": "FirefoxOS", "title": "[B2G][Browser]zooming in/out in google maps does not display properly"}

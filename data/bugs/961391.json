@@ -1,0 +1,1 @@
+{"url": "http://careerjunction.co.za", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.careerjunction.co.za\";}"], "title": "careerjunction.co.za sends desktop site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://www.zozo.jp/", "steps": ["function (){return location.pathname.indexOf('/sp/')===0}"], "ua": "FirefoxOS", "title": "zozo.jp doesn't offer mobile content to Firefox OS"}

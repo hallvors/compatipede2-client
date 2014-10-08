@@ -1,0 +1,1 @@
+{"url": "http://sify.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.sify.com\" && hasHandheldFriendlyMeta();}"], "title": "sify.com sends desktop site to Firefox OS"}

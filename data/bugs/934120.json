@@ -1,0 +1,1 @@
+{"url": "http://www.mediamarkt.gr", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.mediamarkt.gr\";}"], "title": "mediamarkt.gr doesn't redirect to mobile site on Firefox OS"}

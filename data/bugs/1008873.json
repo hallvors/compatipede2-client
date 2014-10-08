@@ -1,0 +1,1 @@
+{"url": "http://depor.pe", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"m.depor.pe\";}"], "title": "depor.pe sends desktop site to Firefox OS, can't play video"}

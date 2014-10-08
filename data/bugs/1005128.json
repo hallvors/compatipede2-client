@@ -1,0 +1,1 @@
+{"url": "http://www.portalinmobiliario.com", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"m.portalinmobiliario.com\";}"], "title": "portalinmobiliario.com sends desktop site to Firefox OS and Firefox on Android"}

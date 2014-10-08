@@ -1,0 +1,1 @@
+{"url": "http://people.mozilla.org/~atrain/mobile/tests/google-translate.html", "steps": ["function (){try{return document.getElementsByClassName('goog-te-menu-frame')[0].contentDocument.getElementsByClassName('goog-te-menu2-item').length>1}catch(e){return false;}}"], "ua": "FirefoxAndroid", "title": ""}

@@ -1,0 +1,1 @@
+{"url": "http://www.google.com/flights", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "Google Flight Search: Offered Desktop over Mobile content"}

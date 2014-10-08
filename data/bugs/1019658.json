@@ -1,0 +1,1 @@
+{"url": "http://hotelescity.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"movil.hotelescity.com\";}"], "title": "hotelescity.com sends desktop site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://www.lynda.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && hasVideoTags() && location.hostname === \"m.lynda.com\";}"], "title": "Lynda.com isn't redirecting to Mobile site"}

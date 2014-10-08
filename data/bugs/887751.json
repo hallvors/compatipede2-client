@@ -1,0 +1,1 @@
+{"url": "http://di.com.pl", "steps": ["function (){return mobileLinkOrScriptUrl() && hasViewportMeta() /*(regression test, expected to pass)*/}"], "ua": "FirefoxOS"}

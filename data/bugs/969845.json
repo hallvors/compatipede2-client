@@ -1,0 +1,1 @@
+{"url": "http://rtl.de", "steps": ["function (){}", "function (){return location.hostname === 'mobil.rtl.de';}"], "ua": "FirefoxOS", "title": ""}

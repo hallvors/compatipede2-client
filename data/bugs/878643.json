@@ -1,0 +1,1 @@
+{"url": "http://netflix.com", "steps": ["function (){return location.hostname.indexOf(\"secure.netflix.com\")>-1 && mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

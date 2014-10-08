@@ -1,0 +1,1 @@
+{"url": "http://www.rfi.fr/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.rfi.fr\" && mobileLinkOrScriptUrl();}"], "title": "www.rfi.fr sends desktop site to Firefox OS"}

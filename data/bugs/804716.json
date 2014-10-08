@@ -1,0 +1,1 @@
+{"url": "http://www.reuters.com/", "steps": ["function (){return location.hostname.indexOf(\"mobile.reuters.com\")>-1 && mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS", "title": "reuters.com serves Desktop Content to FirefoxOS"}

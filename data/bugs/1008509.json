@@ -1,0 +1,1 @@
+{"url": "http://origo.hu", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.origo.hu\";}"], "title": "origo.hu sends desktop site to Firefox OS"}

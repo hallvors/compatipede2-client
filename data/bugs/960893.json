@@ -1,0 +1,1 @@
+{"url": "http://www.asahi.com/", "ua": "FirefoxOS", "steps": ["function (){for(var i=0,el;el=document.links[i];i++){if(el.href.indexOf('sp/guide_smp.html')>-1)return true;} return false;}"], "title": "asahi.com doesn't offer banner advertising mobile content site to Firefox OS"}

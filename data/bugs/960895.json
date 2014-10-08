@@ -1,0 +1,1 @@
+{"url": "http://zozo.jp", "ua": "FirefoxOS", "steps": ["function (){return location.pathname.indexOf('/sp/')==0}"], "title": "zozo.jp sends desktop site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "https://vine.co/v/b3Enwh79mdj", "steps": ["function (){return document.getElementsByTagName('video').length>0 && document.getElementsByTagName('video')[0].currentSrc != '' ; }"], "ua": "FirefoxOS"}

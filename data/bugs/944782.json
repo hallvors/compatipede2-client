@@ -1,0 +1,1 @@
+{"url": "http://www.weather.com/", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"mw.weather.com\" && mobileLinkOrScriptUrl() && hasHandheldFriendlyMeta();}"], "title": "weather.com sends desktop content to Firefox OS"}

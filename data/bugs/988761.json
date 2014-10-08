@@ -1,0 +1,1 @@
+{"url": "http://youku.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && mobileLinkOrScriptUrl();}"], "title": "youku.com sends desktop site to Firefox OS"}

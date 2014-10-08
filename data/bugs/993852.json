@@ -1,0 +1,1 @@
+{"url": "http://amarujala.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && hasVideoTags() && location.hostname === \"m.amarujala.com\" && mobileLinkOrScriptUrl() && hasHandheldFriendlyMeta();}"], "title": "amarujala.com sends desktop site to Firefox OS"}

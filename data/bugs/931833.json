@@ -1,0 +1,1 @@
+{"url": "http://www.capital.gr", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.capital.gr\";}"], "title": "capital.gr doesn't redirect to mobile site on Firefox OS and Firefox for Android"}

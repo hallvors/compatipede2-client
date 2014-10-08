@@ -1,0 +1,1 @@
+{"url": "http://idbi.com", "steps": ["function (){return document.getElementsByTagName('table').length < 7; }"], "ua": "FirefoxOS", "title": "idbi.com sends desktop site to Firefox OS"}

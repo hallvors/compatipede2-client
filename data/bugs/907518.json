@@ -1,0 +1,1 @@
+{"url": "http://info.3g.qq.com/", "steps": ["function (){return getComputedStyle(document.getElementsByClassName('main-nav-list')[0]).display === 'flex'; /*document.body.className.indexOf('index')>-1;*/}"], "ua": "FirefoxAndroid"}

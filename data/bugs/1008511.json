@@ -1,0 +1,1 @@
+{"url": "http://freemail.hu", "steps": ["function (){if(location.pathname === '/')return 'delay-and-retry';  return location.href.indexOf('szimpla/') != -1}"], "ua": "FirefoxOS", "title": "freemail.hu sends desktop site to Firefox OS and Firefox on Android"}

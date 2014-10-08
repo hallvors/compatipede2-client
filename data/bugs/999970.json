@@ -1,0 +1,1 @@
+{"url": "http://abv.bg", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.abv.bg\" && mobileLinkOrScriptUrl();}"], "title": "abv.bg sends desktop site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://m.xiangha.com", "steps": ["function (){return getComputedStyle(document.querySelector('nav ul'),'').display === 'flex';}"], "ua": "FirefoxOS", "title": "m.xiangha.com - broken rendering of navigation menu"}

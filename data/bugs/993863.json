@@ -1,0 +1,1 @@
+{"url": "http://nseindia.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"www.nseindia.com\" && hasMobileOptimizedMeta() && mobileLinkOrScriptUrl() && hasHandheldFriendlyMeta();}"], "title": "nseindia.com sends desktop site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://eluniversal.com.mx", "steps": ["function (){return location.hostname.indexOf(\"m.eluniversal.com.mx\")>-1 && mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

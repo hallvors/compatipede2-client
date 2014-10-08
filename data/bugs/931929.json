@@ -1,0 +1,1 @@
+{"url": "http://aegeanair.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"mobile.aegeanair.com\" && mobileLinkOrScriptUrl();}"], "title": "aegeanair.com doesn't redirect to mobile site on Firefox OS"}

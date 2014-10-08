@@ -1,0 +1,1 @@
+{"url": "https://mobile.twitter.com", "steps": ["function (){}", "function (){return Object.keys(document.body.dataset).length>0;}"], "ua": "FirefoxAndroid"}

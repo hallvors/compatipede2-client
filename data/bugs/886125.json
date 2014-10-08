@@ -1,0 +1,1 @@
+{"url": "http://nme.com", "steps": ["function (){return mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

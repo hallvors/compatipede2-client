@@ -1,0 +1,1 @@
+{"url": "http://www.20minutes.fr/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.20minutes.fr\" && mobileLinkOrScriptUrl();}"], "title": "www.20minutes.fr sends desktop site to Firefox OS"}

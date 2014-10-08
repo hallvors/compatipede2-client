@@ -1,0 +1,1 @@
+{"url": "http://allabout.co.jp", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"touch.allabout.co.jp\";}"], "title": "allabout.co.jp sends desktop site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://hir24.hu", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.hir24.hu\" && mobileLinkOrScriptUrl();}"], "title": "hir24.hu sends desktop site to Firefox OS"}

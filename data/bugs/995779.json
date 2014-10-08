@@ -1,0 +1,1 @@
+{"url": "http://www.scjn.gob.mx", "steps": ["function (){return location.hostname.indexOf('/Mobile')==0; }"], "ua": "FirefoxOS", "title": "scjn.gob.mx sends desktop site to Firefox OS"}

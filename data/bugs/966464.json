@@ -1,0 +1,1 @@
+{"url": "http://www.pcgamer.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.pcgamer.com\" && hasHandheldFriendlyMeta();}"], "title": "PC gamer sends desktop site to FxOS"}

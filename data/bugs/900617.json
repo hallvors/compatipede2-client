@@ -1,0 +1,1 @@
+{"url": "http://www.despegar.com.ve/", "steps": ["function (){return location.hostname.indexOf(\"m.despegar.com.ve\")>-1 && mobileLinkOrScriptUrl() && hasViewportMeta() /*(regression test, expected to pass)*/}"], "ua": "FirefoxOS"}

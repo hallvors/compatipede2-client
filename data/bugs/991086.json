@@ -1,0 +1,1 @@
+{"url": "http://dhakatimes.com.bd", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.dhakatimes.com.bd\";}"], "title": "dhakatimes.com.bd sends desktop site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://blog.livedoor.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "blog.livedoor.com delivers desktop content to Firefox OS"}

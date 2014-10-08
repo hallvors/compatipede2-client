@@ -1,0 +1,1 @@
+{"url": "http://thedailybanter.com", "steps": ["function (argument) {\n                /* delay until after doc.write..? */\n            }", "function (){return document.body.firstChild.textContent.indexOf('load:function')==-1}"], "ua": "FirefoxAndroid", "title": "thedailybanter.com does not work in Firefox for Android"}

@@ -1,0 +1,1 @@
+{"url": "http://exblog.jp", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"sp.exblog.jp\";}"], "title": "exblog.jp sends desktop site to Firefox OS"}

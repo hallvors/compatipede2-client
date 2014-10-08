@@ -1,0 +1,1 @@
+{"url": "http://www.inegi.org.mx", "steps": ["function (){return location.hostname.indexOf('/movil')==0}"], "ua": "FirefoxOS", "title": "inegi.org.mx sends desktop site to Firefox OS"}

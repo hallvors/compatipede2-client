@@ -1,0 +1,1 @@
+{"url": "http://www.egaliteetreconciliation.fr/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"mobile.egaliteetreconciliation.fr\" && mobileLinkOrScriptUrl();}"], "title": "www.egaliteetreconciliation.fr sends desktop site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://bild.de", "steps": ["function (){}", "function (){return location.hostname === 'wap.bild.de';}"], "ua": "FirefoxOS", "title": "bild.de sends desktop version to FxOS"}

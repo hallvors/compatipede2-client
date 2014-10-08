@@ -1,0 +1,1 @@
+{"url": "https://www.fedex.com/insight/findit/nrp.jsp?tracknumbers=575791242545&opco=FX&language=en&clienttype=ivother", "steps": ["function (){return document.body.hasAttribute('portrait')}"], "ua": "FirefoxOS", "title": "Fedex.com doesn't recognize Firefox Android and Firefox OS UAs as mobile"}

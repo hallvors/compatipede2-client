@@ -1,0 +1,1 @@
+{"url": "http://gaana.com/", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === 'touch.gaana.com';}"], "title": "gaana.com isn't redirecting to mobile site on Firefox OS"}

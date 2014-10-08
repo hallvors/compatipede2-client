@@ -1,0 +1,1 @@
+{"url": "http://zalando.no", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.zalando.no\";}"], "title": "zalando.no sends desktop site to Firefox OS"}

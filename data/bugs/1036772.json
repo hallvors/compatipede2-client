@@ -1,0 +1,1 @@
+{"url": "http://store.nba.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && mobileLinkOrScriptUrl();}"], "title": "store.nba.com sends desktop site to Firefox on smartphones"}

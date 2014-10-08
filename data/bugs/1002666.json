@@ -1,0 +1,1 @@
+{"url": "http://www.fastbikesmag.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.fastbikesmag.com\" && hasHandheldFriendlyMeta();}"], "title": "Fastbikesmag.com sends desktop site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "https://www.deutsche-bank.de", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.db.com\" && hasMobileOptimizedMeta() && mobileLinkOrScriptUrl() && hasHandheldFriendlyMeta();}"], "title": "deutsche-bank.de sends desktop site to Firefox OS"}

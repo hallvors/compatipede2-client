@@ -1,0 +1,1 @@
+{"url": "http://portfolio.hu", "steps": ["function (){return location.hostname.indexOf(\"m.portfolio.hu\")>-1 && hasViewportMeta()}"], "ua": "FirefoxOS"}

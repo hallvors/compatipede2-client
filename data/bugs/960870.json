@@ -1,0 +1,1 @@
+{"url": "http://www.ldblog.jp", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "www.ldblog.jp sends desktop site to Firefox OS"}

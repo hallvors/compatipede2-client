@@ -1,0 +1,1 @@
+{"url": "http://www.nettavisen.no", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.nettavisen.no\" && mobileLinkOrScriptUrl();}"], "title": "nettavisen.no sends desktop site to Firefox OS"}

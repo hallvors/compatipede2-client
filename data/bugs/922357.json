@@ -1,0 +1,1 @@
+{"url": "http://fidelity.com", "steps": ["function (){return location.hostname.indexOf('fidelity.mobi'===-1);}"], "ua": "FirefoxOS"}

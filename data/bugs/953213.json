@@ -1,0 +1,1 @@
+{"url": "http://www.mobilefringeserver.com/mw/southcentre/index.html", "steps": ["function (){var pass=true; try{var myPhotoSwipe = $(\"#Gallery a\").photoSwipe({  });}catch(e){pass=false} return pass && document.getElementsByClassName('ui-btn-text').length>1}"], "ua": "FirefoxAndroid", "title": "Southcentre Mall website doesn't work in Firefox"}

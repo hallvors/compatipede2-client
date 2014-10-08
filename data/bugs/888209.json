@@ -1,0 +1,1 @@
+{"url": "http://m.bumeran.com.co", "steps": ["function (){return location.hostname.indexOf(\"m.bumeran.com.co\")>-1 && mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

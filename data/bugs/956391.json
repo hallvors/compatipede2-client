@@ -1,0 +1,1 @@
+{"url": "http://rideonrealtime.com/RealTime.aspx", "steps": ["function (){return typeof __doPostBack === 'function' }"], "ua": "FirefoxAndroid", "title": "VTA real time transit map does not work in Firefox for Android"}

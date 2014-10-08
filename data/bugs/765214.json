@@ -1,0 +1,1 @@
+{"url": "https://onedrive.live.com/redir?resid=FB24CDE01BC02250!564&authkey=!ADhOW6fMV_dF0cw&ithint=file%2cpdf", "ua": "FirefoxDesktop", "steps": ["function (){return location.href.indexOf('WordPdf')>-1;}"], "title": "Microsoft SkyDrive complains about the lack of Adobe Reader when trying to open the PDF and PDF.js is installed and enabled"}

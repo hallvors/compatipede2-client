@@ -1,0 +1,1 @@
+{"url": "http://www.petardas.com", "steps": ["function (){return location.hostname.indexOf('petardashd')>-1;}"], "ua": "FirefoxOS"}

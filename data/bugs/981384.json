@@ -1,0 +1,1 @@
+{"url": "http://albeu.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.albeu.com\" && mobileLinkOrScriptUrl();}"], "title": "albeu.com has broken layout in Firefox OS"}

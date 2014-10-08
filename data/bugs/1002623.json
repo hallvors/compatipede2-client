@@ -1,0 +1,1 @@
+{"url": "http://www.sfx.co.uk", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.sfx.co.uk\" && hasHandheldFriendlyMeta();}"], "title": "Sfx.co.uk sends desktop site to Firefox OS"}

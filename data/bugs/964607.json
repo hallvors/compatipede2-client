@@ -1,0 +1,1 @@
+{"url": "http://portail.free.fr/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && hasHandheldFriendlyMeta();}"], "title": "portail.free.fr sends desktop site to Firefox OS"}

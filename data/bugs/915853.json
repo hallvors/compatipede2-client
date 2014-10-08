@@ -1,0 +1,1 @@
+{"url": "http://matthewhudson.me/projects/device.js/", "steps": ["function (){return device.fxosPhone(); }"], "ua": "FirefoxOSZTE", "title": "device.js recognizes B2G UA as desktop browser"}

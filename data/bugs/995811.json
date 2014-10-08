@@ -1,0 +1,1 @@
+{"url": "http://www.bajacalifornia.gob.mx/portal/index.jsp", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.ebajacalifornia.gob.mx\" && mobileLinkOrScriptUrl();}"], "title": "bajacalifornia.gob.mx sends desktop site to Firefox OS"}

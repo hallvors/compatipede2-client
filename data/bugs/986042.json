@@ -1,0 +1,1 @@
+{"url": "http://www.vogue.it/", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"m.vogue.it\";}"], "title": "Vogue.it sends Firefox OS to desktop site instead of mobile"}

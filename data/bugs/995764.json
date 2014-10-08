@@ -1,0 +1,1 @@
+{"url": "http://axa.com.mx", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"axainforma.com\";}"], "title": "axa.com.mx sends desktop site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://okwave.jp", "steps": ["function (){return document.getElementsByClassName('spn_induce_new').length > 0}"], "ua": "FirefoxOS", "title": "okwave.jp shows a banner for switching to mobile site to other mobile browsers, not to Firefox OS"}

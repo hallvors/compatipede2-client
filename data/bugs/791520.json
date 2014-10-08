@@ -1,0 +1,1 @@
+{"url": "http://www.letschat.pro/mobile/", "steps": ["function (){return mobileLinkOrScriptUrl() /*(regression test, expected to pass)*/ && hasViewportMeta() /*(regression test, expected to pass)*/}"], "ua": "FirefoxOS"}

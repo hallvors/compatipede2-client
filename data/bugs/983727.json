@@ -1,0 +1,1 @@
+{"url": "http://forbes.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && mobileLinkOrScriptUrl();}"], "title": "forbes.com sends desktop site to Firefox OS"}

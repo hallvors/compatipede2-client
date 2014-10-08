@@ -1,0 +1,1 @@
+{"url": "http://bbva.es", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"www.bbva.mobi\" && mobileLinkOrScriptUrl();}"], "title": "bbva.es sends desktop site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://cnn.com", "steps": ["function (){return location.hostname.indexOf('edition.cnn.com')>-1 && mobileLinkOrScriptUrl();}"], "ua": "FirefoxAndroid"}

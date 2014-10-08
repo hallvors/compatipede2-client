@@ -1,0 +1,1 @@
+{"url": "http://itau.com.br", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"ww70.itau.com.br\";}"], "title": "itau.com.br tells me to download their app, if I touch this button I got redirected to their mobile page"}

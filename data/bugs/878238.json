@@ -1,0 +1,1 @@
+{"url": "http://koponyeg.hu", "steps": ["function (){return location.hostname.indexOf(\"m.koponyeg.hu\")>-1 && hasViewportMeta()}"], "ua": "FirefoxOS"}

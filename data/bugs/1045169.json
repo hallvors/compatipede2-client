@@ -1,0 +1,1 @@
+{"url": "http://www.anyoption.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && mobileLinkOrScriptUrl();}"], "title": "anyoption.com doesn't redirect to mobile site on Firefox OS"}

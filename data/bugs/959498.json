@@ -1,0 +1,1 @@
+{"url": "http://m.caixin.com", "steps": ["function (){return document.body.getElementsByTagName('*').length>0 }"], "ua": "FirefoxOS", "title": "m.caixin.com javascript sniffer shows blank page in Firefox OS"}

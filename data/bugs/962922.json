@@ -1,0 +1,1 @@
+{"url": "http://www.montrealgazette.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && mobileLinkOrScriptUrl();}"], "title": "montrealgazette.com sends desktop content to Firefox OS, Firefox Android and Opera Mobile"}

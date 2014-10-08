@@ -1,0 +1,1 @@
+{"url": "http://www.indianexpress.com/", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"m.indianexpress.com\" && mobileLinkOrScriptUrl() && hasHandheldFriendlyMeta();}"], "title": "indianexpress.com isn't redirecting to mobile site on Firefox OS"}

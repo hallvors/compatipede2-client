@@ -1,0 +1,1 @@
+{"url": "http://mastercard.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.mastercard.com\";}"], "title": "mastercard.com sends desktop site to Firefox OS"}

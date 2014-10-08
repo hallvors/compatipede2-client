@@ -1,0 +1,1 @@
+{"url": "http://www.airtel.in/forme/home", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.airtel.in\";}"], "title": "airtel.in isn't redirecting to mobile site on Firefox OS"}

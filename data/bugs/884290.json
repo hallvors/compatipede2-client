@@ -1,0 +1,1 @@
+{"url": "http://broadway.com", "steps": ["function (){return mobileLinkOrScriptUrl() && hasViewportMeta() /*(regression test, expected to pass)*/}"], "ua": "FirefoxOS"}

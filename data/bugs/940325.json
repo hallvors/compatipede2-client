@@ -1,0 +1,1 @@
+{"url": "http://www.hulu.com", "ua": "FirefoxOS", "steps": ["function (){return hasVideoTags() && mobileLinkOrScriptUrl();}"], "title": "hulu.com: Firefox OS gets desktop version"}

@@ -1,0 +1,1 @@
+{"url": "http://bet365.com", "steps": ["function (){return location.hostname.indexOf(\"mobile.bet365.com\")>-1 && hasHandheldFriendlyMeta() && hasViewportMeta()}"], "ua": "FirefoxOS"}

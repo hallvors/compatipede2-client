@@ -1,0 +1,1 @@
+{"url": "http://images.google.com/search?q=Lira&tbm=isch#", "steps": ["function (){return document.getElementsByClassName('navend').length === 0;}"], "ua": "FirefoxOS", "title": "Google images on Firefox OS doesn't load images as you scroll"}

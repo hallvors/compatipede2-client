@@ -1,0 +1,1 @@
+{"url": "http://www.vente-privee.com/", "ua": "FirefoxOS", "steps": ["function (){return hasVideoTags() && location.hostname === \"m.vente-privee.com\" && mobileLinkOrScriptUrl();}"], "title": "www.vente-privee.com sends desktop site to Firefox OS"}

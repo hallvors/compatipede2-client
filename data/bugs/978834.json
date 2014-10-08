@@ -1,0 +1,1 @@
+{"url": "http://mega.co.nz", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && mobileLinkOrScriptUrl();}"], "title": "mega.co.nz sends simplified site to Firefox OS"}

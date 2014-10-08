@@ -1,0 +1,1 @@
+{"url": "http://m.ofeminin.pl", "steps": ["function (){return location.hostname.indexOf(\"m.ofeminin.pl\")>-1 && hasHandheldFriendlyMeta() && mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

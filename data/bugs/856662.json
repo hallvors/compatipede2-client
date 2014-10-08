@@ -1,0 +1,1 @@
+{"url": "http://el-nacional.com", "steps": ["function (){return location.hostname.indexOf('m.el-nacional.com')>-1;}"], "ua": "FirefoxOS"}

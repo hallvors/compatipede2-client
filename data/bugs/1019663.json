@@ -1,0 +1,1 @@
+{"url": "http://edarling.mx", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.edarling.mx\";}"], "title": "edarling.mx sends desktop site to Firefox OS"}

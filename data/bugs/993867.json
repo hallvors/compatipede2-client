@@ -1,0 +1,1 @@
+{"url": "http://iciciprulife.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.iciciprulife.com\";}"], "title": "iciciprulife.com sends desktop site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://www.classicfordmag.co.uk/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.classicfordmag.co.uk\" && hasHandheldFriendlyMeta();}"], "title": "Classicfordmag.co.uk sends desktop site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://m.nissanusa.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "m.nissanusa.com gives error 500/404 to Firefox Android and Firefox OS"}

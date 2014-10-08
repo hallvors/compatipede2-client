@@ -1,0 +1,1 @@
+{"url": "http://sport.pl", "steps": ["function (){return location.hostname.indexOf(\"m.sport.pl\")>-1 && mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

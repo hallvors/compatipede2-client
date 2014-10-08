@@ -1,0 +1,1 @@
+{"url": "http://shine.com", "steps": ["function (){return location.hostname=='m.shine.com'}"], "ua": "FirefoxOS1.4", "title": "shine.com sends desktop site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "https://hootsuite.com/", "steps": ["function (){return mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

@@ -1,0 +1,1 @@
+{"url": "http://letras.mus.br", "steps": ["function (){return location.hostname.indexOf(\"m.letras.mus.br\")>-1 && mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

@@ -1,0 +1,1 @@
+{"url": "http://m.mapy.cz/", "steps": ["function (){return mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

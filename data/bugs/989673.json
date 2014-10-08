@@ -1,0 +1,1 @@
+{"url": "http://www.onpe.gob.pe/", "steps": ["function (){return location.hostname === 'm.onpe.gob.pe' }"], "ua": "FirefoxOS", "title": "onpe.gob.pe sends desktop site to Firefox OS"}

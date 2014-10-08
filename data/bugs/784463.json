@@ -1,0 +1,1 @@
+{"url": "https://www.bankofamerica.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "Clicking Mobile Banking Sign In on BOA site redirects to non mobile site"}

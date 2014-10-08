@@ -1,0 +1,1 @@
+{"url": "http://netvibes.com", "steps": ["function (){return location.hostname.indexOf(\"mobile.netvibes.com\")>-1 && mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

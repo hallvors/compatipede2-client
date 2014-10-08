@@ -1,0 +1,1 @@
+{"url": "http://www.msz.gov.pl/en/", "steps": ["function (){return mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

@@ -1,0 +1,1 @@
+{"url": "http://www.asklaila.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.asklaila.com\";}"], "title": "asklaila.com isn't redirecting to mobile site on Firefox OS"}

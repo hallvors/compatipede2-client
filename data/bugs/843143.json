@@ -1,0 +1,1 @@
+{"url": "http://foxnewsinsider.com", "steps": ["function (){return Drupal.settings.omega.layouts.order[0]==='narrow';}"], "ua": "FirefoxOS"}

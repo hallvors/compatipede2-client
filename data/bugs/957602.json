@@ -1,0 +1,1 @@
+{"url": "http://m.guahao.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.guahao.com\" && mobileLinkOrScriptUrl();}"], "title": "m.guahao.com sends Firefox OS to desktop site"}

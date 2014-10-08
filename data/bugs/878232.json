@@ -1,0 +1,1 @@
+{"url": "http://hazipatika.com", "steps": ["function (){return location.hostname.indexOf(\"m.hazipatika.com\")>-1 && mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

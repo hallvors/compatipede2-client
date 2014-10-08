@@ -1,0 +1,1 @@
+{"url": "http://sohu.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.sohu.com\" && hasMobileOptimizedMeta();}"], "title": "sohu.com sends desktop site to Firefox OS"}

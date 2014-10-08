@@ -1,0 +1,1 @@
+{"url": "http://elpais.com.co/", "steps": ["function (){return location.hostname.indexOf(\"m.elpais.com.co\")>-1}"], "ua": "FirefoxOS"}

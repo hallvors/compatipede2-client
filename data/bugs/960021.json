@@ -1,0 +1,1 @@
+{"url": "http://vodacom.co.za", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"www.vodacom.mobi\" && mobileLinkOrScriptUrl();}"], "title": "vodacom.co.za sends desktop site to Firefox OS"}

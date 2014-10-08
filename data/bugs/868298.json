@@ -1,0 +1,1 @@
+{"url": "http://www.bing.com/videos/search?q=cats&FORM=HDRSC3", "steps": ["function (){return document.querySelectorAll('*[class*=\"humb\"]').length!=0}"], "ua": "FirefoxAndroid"}

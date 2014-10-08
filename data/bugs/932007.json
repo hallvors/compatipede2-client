@@ -1,0 +1,1 @@
+{"url": "http://www.techgear.gr", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "techgear.gr doesn't show mobile design on Firefox OS"}

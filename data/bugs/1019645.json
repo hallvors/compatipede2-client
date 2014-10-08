@@ -1,0 +1,1 @@
+{"url": "http://zap.com.br", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.zapimoveis.com.br\" && mobileLinkOrScriptUrl();}"], "title": "zap.com.br sends desktop site to Firefox OS"}

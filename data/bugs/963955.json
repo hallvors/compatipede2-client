@@ -1,0 +1,1 @@
+{"url": "http://www.bod.com.ve/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && mobileLinkOrScriptUrl();}"], "title": "bod.com.ve doesn't recognize B2G UA as mobile"}

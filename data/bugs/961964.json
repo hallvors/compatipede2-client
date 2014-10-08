@@ -1,0 +1,1 @@
+{"url": "http://usatoday.com", "steps": ["function (){return hasHandheldFriendlyMeta() && hasMobileOptimizedMeta() && mobileLinkOrScriptUrl() }"], "ua": "FirefoxOS", "title": "usatoday.com serves desktop version to Firefox OS"}

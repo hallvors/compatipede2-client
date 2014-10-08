@@ -1,0 +1,1 @@
+{"url": "http://wfp.to/vKc", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && mobileLinkOrScriptUrl();}"], "title": "wfp is blocking Gecko/25 (bad behavior framework)"}

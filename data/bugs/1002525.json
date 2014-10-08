@@ -1,0 +1,1 @@
+{"url": "http://www.bikeradar.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.bikeradar.com\" && hasHandheldFriendlyMeta();}"], "title": "Bikeradar.com sends desktop site to Firefox OS"}

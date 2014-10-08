@@ -1,0 +1,1 @@
+{"url": "http://m.hao123.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "m.hao123.com sends simplified site to Firefox OS"}

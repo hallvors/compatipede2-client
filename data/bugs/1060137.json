@@ -1,0 +1,1 @@
+{"url": "http://www.libero.it/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.libero.it\" && mobileLinkOrScriptUrl();}"], "title": "b2g connects to virgilio.it instead of mobile.virgilio.it"}

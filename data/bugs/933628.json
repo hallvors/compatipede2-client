@@ -1,0 +1,1 @@
+{"url": "http://www.fashionandyou.com/", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"m.fashionandyou.com\";}"], "title": "fashionandyou.com isn't redirecting to mobile site on Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "http://cnet.com", "steps": ["function (){return location.hostname.indexOf(\"cnet.com\")>-1 && document.cookie.indexOf('fly_device=mobile')>-1;}"], "ua": "FirefoxOS"}

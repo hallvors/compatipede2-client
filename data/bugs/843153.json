@@ -1,0 +1,1 @@
+{"url": "http://games.com", "steps": ["function (){return document.body.classList.contains('mobile') && document.body.classList.contains('touch') }"], "ua": "FirefoxOS"}

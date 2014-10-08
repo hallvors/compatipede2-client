@@ -1,0 +1,1 @@
+{"url": "http://photobucket.com/", "steps": ["function (){ return document.body.classList.contains('mobile');}"], "ua": "FirefoxOS"}

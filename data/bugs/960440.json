@@ -1,0 +1,1 @@
+{"url": "http://cookpad.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "cookpad.com sends desktop site to Firefox OS"}

@@ -1,0 +1,1 @@
+{"url": "https://m.midflorida.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.midflorida.com\" && mobileLinkOrScriptUrl();}"], "title": "(Midflorida.com) - Sign-in input not visible in Gecko due to WebKit CSS styling"}

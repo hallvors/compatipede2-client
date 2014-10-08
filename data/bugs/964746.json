@@ -1,0 +1,1 @@
+{"url": "http://mapquest.com", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.mapquest.com\" && mobileLinkOrScriptUrl();}"], "title": "Mapquest mobile site offers less features with gecko if compared to webkit"}

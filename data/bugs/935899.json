@@ -1,0 +1,1 @@
+{"url": "http://www.cwtv.com/cw-video/", "steps": ["function (){return location.hostname.indexOf(\"m.cwtv.com\")>-1 && mobileLinkOrScriptUrl() && hasViewportMeta() /*(regression test, expected to pass)*/}"], "ua": "FirefoxOS"}

@@ -1,0 +1,1 @@
+{"url": "http://seesaa.net", "steps": ["function (){return location.pathname.indexOf('s/')>-1 || hasViewportMeta()}"], "ua": "FirefoxOS", "title": "seesaa.net / blog.seesaa.jp sends desktop site to Firefox OS"}

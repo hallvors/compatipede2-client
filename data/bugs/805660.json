@@ -1,0 +1,1 @@
+{"url": "http://bradesco.com.br", "steps": ["function (){ if(location.hostname.indexOf('celular') === -1 && !mobileLinkOrScriptUrl('Mobile2Detect.js'))return 'delay-and-retry'; }", "function (){return location.hostname.indexOf('bradescocelular.com.br')>-1;}"], "ua": "FirefoxOS"}

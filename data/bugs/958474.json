@@ -1,0 +1,1 @@
+{"url": "http://www.abudhabiairport.ae", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.abudhabiairport.ae\" && mobileLinkOrScriptUrl();}"], "title": "abudhabiairport.ae doesn't redirect to mobile site on Firefox OS"}

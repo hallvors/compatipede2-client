@@ -1,0 +1,1 @@
+{"url": "http://espn.go.com", "steps": ["function (){ /*NOOP - let redirect kick in*/ }", "function (){\n            if(document.readyState != 'complete') return 'delay-and-retry';\n            return document.getElementsByClassName('main-story-headlines').length > 0\n        }"], "ua": "FirefoxAndroid"}

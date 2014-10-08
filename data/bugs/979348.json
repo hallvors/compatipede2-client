@@ -1,0 +1,1 @@
+{"url": "http://www.falabella.com.pe", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.falabella.com.pe\";}"], "title": "falabella.com.pe sends desktop site to Firefox OS"}

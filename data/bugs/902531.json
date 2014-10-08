@@ -1,0 +1,1 @@
+{"url": "http://play.google.com/music/listen", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta();}"], "title": "Google Play Music not working on Firefox for Android/Firefox OS"}

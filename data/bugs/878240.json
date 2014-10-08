@@ -1,0 +1,1 @@
+{"url": "http://kuruc.info", "steps": ["function (){return location.hostname.indexOf(\"m.kuruc.info\")>-1}"], "ua": "FirefoxOS"}

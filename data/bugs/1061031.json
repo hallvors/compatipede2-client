@@ -1,0 +1,1 @@
+{"url": "http://www.pickupforum.de/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && mobileLinkOrScriptUrl();}"], "title": "pickupforum.de sends desktop content instead of mobile content to Firefox Android"}

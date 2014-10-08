@@ -1,0 +1,1 @@
+{"url": "http://biobiochile.cl", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.biobiochile.cl\";}"], "title": "biobiochile.cl sends desktop site to Firefox OS"}

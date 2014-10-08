@@ -1,0 +1,1 @@
+{"url": "http://www.bomnegocio.com/", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"m.bomnegocio.com\" && mobileLinkOrScriptUrl();}"], "title": "bomnegocio.com doesn't recognize B2G UA as mobile"}

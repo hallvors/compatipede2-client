@@ -1,0 +1,1 @@
+{"url": "http://readingrockets.org/shows/", "ua": "FirefoxOS", "steps": ["function (){return document.querySelector('img[src*=\"admin.brightcove.com/viewer/upgrade_flash_player\"]') == null}"], "title": "readingrockets.org doesn't play video in Firefox OS"}

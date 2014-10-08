@@ -1,0 +1,1 @@
+{"url": "http://webmail.co.za", "ua": "FirefoxOS", "steps": ["function (){return hasViewportMeta() && location.hostname === \"s.webmail.co.za\" && mobileLinkOrScriptUrl();}"], "title": "webmail.co.za sends desktop site to Firefox OS"}

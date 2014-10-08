@@ -1,0 +1,1 @@
+{"url": "http://www.sponichi.co.jp", "ua": "FirefoxOS", "steps": ["function (){return document.getElementById('sp_switch')!=null}"], "title": "www.sponichi.co.jp shows \"view mobile site\" banner in other mobile browsers, not in Firefox OS"}

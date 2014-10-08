@@ -1,0 +1,1 @@
+{"url": "http://citromail.hu", "steps": ["function (){return location.hostname.indexOf(\"m.citromail.hu\")>-1 && hasViewportMeta()}"], "ua": "FirefoxOS"}

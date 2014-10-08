@@ -1,0 +1,1 @@
+{"url": "http://m.fisher-price.com", "steps": ["function (){return document.getElementById('mycarousel').parentNode.className.indexOf('right')===-1}"], "ua": "FirefoxOS", "title": "m.fisher-price.com has messy layout in Firefox for Android and Firefox OS"}

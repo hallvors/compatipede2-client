@@ -1,0 +1,1 @@
+{"url": "http://www.yahoo.com/?m=sp", "steps": ["function (){return mobileLinkOrScriptUrl() && hasViewportMeta()}"], "ua": "FirefoxOS"}

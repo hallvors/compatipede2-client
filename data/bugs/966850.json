@@ -1,0 +1,1 @@
+{"url": "http://screen.yahoo.com", "steps": ["function (){document.querySelector('li.thumb a').click(); }", "function (){if(document.querySelectorAll('video, object').length===0)return 'delay-and-retry'; return document.querySelector('video')!=null;}"], "ua": "FirefoxOS", "title": "screen.yahoo.com sniffing falls back to Flash, does not play video"}

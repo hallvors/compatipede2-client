@@ -1,0 +1,1 @@
+{"url": "http://postbank.de", "ua": "FirefoxOS", "steps": ["function (){return location.hostname === \"m.postbank.de\";}"], "title": "postbank.de sends desktop site to Firefox OS"}
