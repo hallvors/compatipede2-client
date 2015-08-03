@@ -9,10 +9,19 @@
         coords: {x: y: width: height: }
         problems: [ {property: value: } ]
     */
+    /*TODO:
+
+    Perhaps unsurprising, a major issue with this approach is performance.
+    It might not seem like a big problem for something that can run by itself
+    and record data at leisure, but slow performance makes it time consuming to
+    test and develop..
+
+    */
+
     var ts1 = new Date;
     var list = [];
     var neutralFrame = document.body.appendChild(document.createElement('iframe'));
-    var comparisonStyle = rect2obj(neutralFrame.contentWindow.getComputedStyle(neutralFrame.contentDocument.body));
+    var comparisonStyle = cloneobj(neutralFrame.contentWindow.getComputedStyle(neutralFrame.contentDocument.body));
     document.body.removeChild(neutralFrame);
     console.log('Before qsa' + ((new Date)-ts1));
     var elms = document.querySelectorAll('*');
@@ -21,8 +30,8 @@
     for (var i =0, elm;  elm = elms[i]; i++) {
         console.log('Før elm: ' + elm.tagName + ' ' + ((new Date)-ts1));
         var coords = elm.getBoundingClientRect();
-        var tmp = [[''],1];// createCSSSelector(elm);
-        var obj = {selector:tmp[0].join(' '), index: tmp[1], coords: rect2obj(coords), problems: []}
+        var tmp = createCSSSelector(elm);
+        var obj = {selector:tmp[0].join(' '), index: tmp[1], coords: cloneobj(coords), problems: []}
 //        console.log(elm.outerHTML.substr(0,30) +' ' + JSON.stringify(obj));
         var style = getComputedStyle(elm);
         // property test
@@ -84,7 +93,7 @@
         return desc;
     }
 
-    function rect2obj(rect){
+    function cloneobj(rect){
         var obj = {};
         for(var prop in rect){
             obj[prop] = rect[prop];
